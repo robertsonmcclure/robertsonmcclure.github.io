@@ -1,0 +1,149 @@
+/*GENERAL DOCUMENT*/
+
+html {
+	background-color:#270926;
+}
+
+#logo {
+	display:block;
+	margin:auto;
+	width:280px;
+}
+
+body {
+	
+	font-family:"Times New Roman", Times, serif;
+	line-height: 1.6
+}
+
+ul {
+	list-style:none;
+}
+
+/*TAB CONTAINER*/
+
+.container {
+	padding-top:50px;
+	width: 1000px;
+	margin: 0 auto;
+	margin-bottom:100px;
+}
+
+/*TAB SYSTEM*/
+
+ul.tabs {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.tabs li {
+	background: none;
+	color: #C1B081;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	width:217px;
+	text-align:center;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	font-size:20px;
+	font-style:italic;
+}
+
+ul.tabs li.current {
+	background: #5A323C;
+	color:#F4F0B4;
+}
+
+.tab-content {
+	display: none;
+	background: #5A323C;
+	padding: 15px;
+	color:#F4F0B4;
+}
+
+.tab-content.current {
+	display: inherit;
+}
+
+.clearing {
+	clear:both;
+}
+
+.tabs li:hover {
+	color:#F4F0B4;
+	background-color:#381436;
+}
+/*ABOUT TAB*/
+
+#headshot {
+	margin-top:20px;
+	margin-left:10px;
+	margin-right:20px;
+	margin-bottom:20px;
+	width:220px;
+	float:left;
+}
+
+#biography td:nth-child(2){
+	vertical-align:top;
+	color:#F4F0B4;
+	padding-top:30px;
+}
+
+/*EDUCATION AND EXPERIENCE TABLES*/
+
+.resume {
+	margin-left:13px;
+	margin-top:13px;
+	color:#F4F0B4;
+	border-collapse:collapse;
+}
+
+.resume tr {
+	margin-left:50px;
+}
+
+.resume td {
+	width:240px;
+	padding-bottom:5px;
+}
+
+.resume td:nth-child(2) {
+	text-align:center;
+}
+
+.resume td:nth-child(3) {
+	width:330px;
+}
+
+/*PROJECTS*/
+
+.spread {
+	width:320px;
+	display:inline-block;
+}
+
+.spread:hover{
+	border:1px solid #F4F0B4;
+}
+
+.spread.big {
+	width:628px;
+	display:inline-block;
+	float:left;
+}
+
+.caption {
+	display:none;
+	margin-left:15px;
+	float:left;
+}
+
+
+
+
+
+
+

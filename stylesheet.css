@@ -1,4 +1,8 @@
 /*GENERAL DOCUMENT*/
+@font-face {
+	font-family:"Cabin";
+	src:url(Cabin-Regular.otf);
+}
 
 html {
 	background-color:#270926;
@@ -11,8 +15,7 @@ html {
 }
 
 body {
-	
-	font-family:"Times New Roman", Times, serif;
+	font-family:"Cabin";
 	line-height: 1.6;
 }
 
@@ -124,7 +127,7 @@ ul.tabs li.current {
 }
 
 .resume td:nth-child(3) {
-	width:330px;
+	width:400px;
 }
 
 /*PROJECTS*/

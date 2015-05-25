@@ -154,10 +154,11 @@ ul.tabs li.current {
 /*BLOG*/
 
 .blog-post {
+	color:#F4F0B4;
 	display:none;
 }
 
-.blog-post {
+.blog-post.current{
 	display:inherit;
 }
 

@@ -21,12 +21,10 @@ ul {
 }
 
 a {
-	color:#381436;
 	text-decoration:none;
 }
 
 a:hover {
-	color:#350C18;
 	text-decoration:underline;
 }
 

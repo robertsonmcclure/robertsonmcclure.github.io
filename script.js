@@ -12,7 +12,8 @@ $(document).ready(function() {
     });
 	
 	$('ul.posts li').click(function() {
-		$(this).hide();
+		$('ul.posts li').removeClass('current');
+		$(this).addClass('current')
 	})
 
 	$('#stuff').click(function() {

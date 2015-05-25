@@ -22,7 +22,11 @@ ul {
 
 a {
 	color:#8D6955;
-	background:#350C18;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#350C18;
 }
 
 /*TAB CONTAINER*/

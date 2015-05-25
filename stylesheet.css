@@ -43,7 +43,7 @@ a:hover {
 	padding-top:50px;
 	width: 1000px;
 	margin: 0 auto;
-	margin-bottom:100px;
+	margin-bottom:20px;
 }
 
 /*TAB SYSTEM*/
@@ -109,6 +109,21 @@ ul.tabs li.current {
 	padding-top:30px;
 }
 
+.contact {
+	margin-top:50px;
+}
+
+
+.contact li {
+	font-size:16px;
+	display:inline;
+	float:left;
+}
+
+.contact li:nth-child(2) {
+	float:right;
+}
+
 /*EDUCATION AND EXPERIENCE TABLES*/
 
 .resume {
@@ -168,6 +183,14 @@ ul.tabs li.current {
 	background-color:#381436;
 	color:#F4F0B4;
 }
+
+footer {
+	float:right;
+	padding-right:100px;
+	padding-bottom:20px;
+	color:#8D6955;
+}
+
 
 
 

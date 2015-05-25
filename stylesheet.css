@@ -153,21 +153,18 @@ ul.tabs li.current {
 
 /*BLOG*/
 
+.caption h5 {
+	cursor:pointer;
+}
+
 .blog-post {
-	color:#F4F0B4;
 	display:none;
+	color:#F4F0B4;
 }
 
-.blog-post h2 {
+.blog-post.current {
 	display:inherit;
 }
-
-.blog-post.current{
-	display:inherit;
-}
-
-
-
 
 
 

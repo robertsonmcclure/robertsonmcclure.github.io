@@ -12,8 +12,12 @@ $(document).ready(function() {
     });
 	
 	$('ul.posts li').click(function() {
+		var post_id = $(this).attr('lnk');
 		$('ul.posts li').removeClass('current');
-		$(this).addClass('current')
+		$('.blog-post').removeClass('current');
+		
+		$(this).addClass('current');
+		$("#" + post_id).addClass('current');
 	})
 
 	$('#stuff').click(function() {

@@ -27,6 +27,7 @@ a {
 
 a:hover {
 	color:#350C18;
+	style:underline;
 }
 
 /*TAB CONTAINER*/

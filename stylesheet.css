@@ -129,24 +129,12 @@ ul.tabs li.current {
 
 /*PROJECTS*/
 
-.spread {
+#tab-4 img {
 	width:320px;
 	display:inline-block;
 }
 
-.spread:hover{
+#tab-4 img:hover{
 	border:1px solid #F4F0B4;
 	cursor:pointer;
-}
-
-.spread.big {
-	width:628px;
-	display:inline-block;
-	float:left;
-}
-
-.caption {
-	display:none;
-	margin-left:15px;
-	float:left;
 }

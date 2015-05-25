@@ -151,6 +151,16 @@ ul.tabs li.current {
 	float:left;
 }
 
+/*BLOG*/
+
+.blog-post {
+	display:none;
+}
+
+.blog-post {
+	display:inherit;
+}
+
 
 
 

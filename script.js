@@ -10,6 +10,11 @@ $(document).ready(function() {
     	$("#" + tab_id).addClass('current');
     	$(this).css('background-color', '');
     });
+	
+	$('ul.posts li').click(function() {
+		$('ul.posts li').removeClass('current');
+		$(this).addClass('current');
+	})
 
 	$('#stuff').click(function() {
 		$('#more-content').toggle();

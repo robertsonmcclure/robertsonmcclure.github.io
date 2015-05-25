@@ -13,7 +13,7 @@ html {
 body {
 	
 	font-family:"Times New Roman", Times, serif;
-	line-height: 1.6
+	line-height: 1.6;
 }
 
 ul {
@@ -150,22 +150,3 @@ ul.tabs li.current {
 	margin-left:15px;
 	float:left;
 }
-
-/*BLOG*/
-
-.caption h5 {
-	cursor:pointer;
-}
-
-.blog-post {
-	display:none;
-	color:#F4F0B4;
-}
-
-.blog-post.current {
-	display:inherit;
-}
-
-
-
-

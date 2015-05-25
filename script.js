@@ -11,15 +11,6 @@ $(document).ready(function() {
     	$(this).css('background-color', '');
     });
 	
-	$('ul.posts li').click(function() {
-		var post_id = $(this).attr('lnk');
-		$('ul.posts li').removeClass('current');
-		$('.blog-post').removeClass('current');
-		
-		$(this).addClass('current');
-		$("#" + post_id).addClass('current');
-	})
-
 	$('#stuff').click(function() {
 		$('#more-content').toggle();
 	});

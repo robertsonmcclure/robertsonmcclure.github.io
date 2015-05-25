@@ -20,6 +20,11 @@ ul {
 	list-style:none;
 }
 
+a {
+	color:#8D6955;
+	background:#350C18;
+}
+
 /*TAB CONTAINER*/
 
 .container {

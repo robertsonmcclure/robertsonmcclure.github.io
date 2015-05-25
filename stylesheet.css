@@ -4,6 +4,11 @@
 	src:url(Cabin-Regular.otf);
 }
 
+@font-face {
+	font-family:"Open Sans";
+	src:url(OpenSans-Regular.ttf);
+}
+
 html {
 	background-color:#270926;
 }
@@ -140,3 +145,30 @@ ul.tabs li.current {
 #tab-4 img:hover{
 	cursor:pointer;
 }
+
+.box {
+	margin:2px;
+	width:279px;
+	height:279px;
+	background-color:#270926;
+	color:#5A323C;
+	display:inline-block;
+	font-family:"Open Sans";
+	float:left;
+	font-size:50px;
+	padding:20px;
+}
+
+.box:hover {
+	background-color:#350C18;
+	color:#8D6955;
+}
+
+.box:active {
+	background-color:#381436;
+	color:#F4F0B4;
+}
+
+
+
+

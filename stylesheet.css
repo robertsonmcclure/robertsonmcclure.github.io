@@ -29,11 +29,12 @@ ul {
 }
 
 a {
-	color:#C1B081;
+	color:#8D6955;
 	text-decoration:none;
 }
 
 a:hover {
+	color:#F4F0B4;
 	text-decoration:underline;
 }
 

@@ -4,11 +4,6 @@
 	src:url(Cabin-Regular.otf);
 }
 
-@font-face {
-	font-family:"Open Sans";
-	src:url(OpenSans-Regular.ttf);
-}
-
 html {
 	background-color:#270926;
 }
@@ -138,15 +133,6 @@ ul.tabs li.current {
 }
 
 /*PROJECTS*/
-
-#tab-4 img {
-	width:320px;
-	display:inline-block;
-}
-
-#tab-4 img:hover{
-	cursor:pointer;
-}
 
 .box {
 	margin:2px;

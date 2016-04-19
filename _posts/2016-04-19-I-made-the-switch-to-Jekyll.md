@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I made the switch to Jekyll"
+title: "i made the switch to jekyll"
 date: 2016-04-19
 ---
 

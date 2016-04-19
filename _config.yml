@@ -1,5 +1,9 @@
 name: Robertson McClure
 markdown: kramdown
 permalink: /:title
+paginate: 10
+auto: false
+server: false
+lsi: false
 
 

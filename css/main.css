@@ -43,6 +43,7 @@ ul.posts li {
 }
 
 column {
+    display: block;
     float: left; 
     width: 50%;
     background-color: aqua;

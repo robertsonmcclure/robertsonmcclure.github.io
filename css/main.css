@@ -56,3 +56,7 @@ ul.posts li {
 .clear {
     clear: both;
 }
+
+span {
+    font-size: smaller;
+}

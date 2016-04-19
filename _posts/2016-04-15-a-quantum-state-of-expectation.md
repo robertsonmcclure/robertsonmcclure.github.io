@@ -26,9 +26,9 @@ I find the environment created outside an exam rom to be one of the most toxic a
 
 > _I **know** what I **know**._
 > 
-> I **don’t know** what I **don’t know**.
+> _I **don’t know** what I **don’t know**._
 > 
-> That’s **all** I can do.
+> _That’s **all** I can do._
 
 Many student gripe that “If only I had studied more” they would’ve done better. At this point, minutes before an exam is scheduled to start, you can’t change any of your preparation. So I accept the fact that the amount of preparation I’ve put in is enough to solve the puzzles presented to me by the examination. This confidence in my own abilities has to be slightly manufactured, but once I buy into it, and I always do, it helps.
 
@@ -38,17 +38,17 @@ However, I drastically change my headspace as the exam ends. Prior to and during
 
 I engage myself in a completely different internal dialogue.
 
-> Marks don’t define you. You define you. This is not an evaluation of your self worth.
+> _Marks don’t define you. You define you. This is not an evaluation of your self worth._
 
-> Nobody  is ever going to look back and see this grade once you start working.
+> _Nobody  is ever going to look back and see this grade once you start working._
 >
-> Stop thinking about it, out of sight, out of mind.
+> _Stop thinking about it, out of sight, out of mind._
 >
-> Don’t talk to anyone about any of the questions.
+> _Don’t talk to anyone about any of the questions._
 >
-> The concept of evaluating knowledge is flawed.
+> _The concept of evaluating knowledge is flawed._
 >
-> The skills that this course is testing are not as important as the soft skills you learned while on the journey that this course created.
+> _The skills that this course is testing are not as important as the soft skills you learned while on the journey that this course created._
 
 With my expectations set extremely low, any grade that I receive not only surprises me, but fills me with happiness. This does wonders for one’s mental health and can be applied to every day situations. When receiving any result, temper your expectations to be much lower than they should be. This causes your result to appear amazing, no matter what it actually is.
 

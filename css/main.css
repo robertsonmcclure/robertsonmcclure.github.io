@@ -41,6 +41,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    color: black
+}
+
+ul.posts li a:hover {
+    color: #999;
 }
 
 .sidebar {
@@ -59,4 +64,5 @@ ul.posts li {
 
 span {
     font-size: smaller;
+    color: #999;
 }

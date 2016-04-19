@@ -24,7 +24,7 @@ I am talking a lot about the preparation for an exam, but one of the most import
 
 I find the environment created outside an exam rom to be one of the most toxic and detrimental environments to be surrounded by. I arrive early and then take a walk. There’s no use worrying now. One of the biggest things I do to reduce the stress is to let go of the things you can’t control. Before every exam I write I say to myself:
 
-> I **know** what I **know**.
+> _I **know** what I **know**._
 > 
 > I **don’t know** what I **don’t know**.
 > 

@@ -42,10 +42,12 @@ ul.posts li {
     list-style: none;
 }
 
-column {
-    display: block;
-    float: left; 
+.sidebar {
+    width: 10%;
+    float: right;
+}
+
+.main {
     width: 50%;
-    background-color: aqua;
-    color: red;
+    float: left;
 }

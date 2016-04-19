@@ -7,11 +7,9 @@ title: nuance
         <ul class="posts">
 
         {% for post in site.posts %}
-            <a href="{{ post.url }}" title="{{ post.title }}">
-                <li>{{ post.title }}</li>
-                <li><span>{{ post.date | date: "%B %-d, %Y" | downcase }}</span></li>
-            </a>
-            <li>   </li>
+            <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url }}" title="{{ post.title }}"><span>{{ post.date | date: "%B %-d, %Y" | downcase }}</span></a></li>
+            <br>
         {% endfor %}
         </ul>
     </div>

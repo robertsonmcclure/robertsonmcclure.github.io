@@ -1,32 +1,29 @@
 <!DOCTYPE html>
-
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="stylesheet.css">
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-        <title>{{ page.title }}</title>
-    </head>
-
-    <body>
-        <div id="page1">
-            <div id="nav">
+    <html>
+        <head>
+            <title>{{ page.title }}</title>
+            <!-- link to main stylesheet -->
+            <link rel="stylesheet" type="text/css" href="/css/main.css">
+        </head>
+        <body>
+            <nav>
                 <ul>
-                    <li id="home"><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/cv">CV</a></li>
+                    <li><a href="/blog">Blog</a></li>
                 </ul>
-            </div>
-        </div>
-
-        <div class="container">
+            </nav>
+            <div class="container">
             
             {{ content }}
-
-        </div>
-
-        <div id="footer">
-            <h4>2016 Robertson Lovell McClure</h4>
-        </div>
-    </body>
+            
+            </div><!-- /.container -->
+            <footer>
+                <ul>
+                    <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+                    <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+                </ul>
+            </footer>
+        </body>
+    </html>

@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    position: relative;
+    vertical-align: middle;
+    box-sizing: border-box;
+    overflow: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#page1 {
+    height: 80vh;
+    background-color: azure;
+}
+
+#page2 {
+    height: 30vh;
+    background-color: beige;
+}
+
+#page3 {
+    background-color: antiquewhite;
+}
+
+#footer {
+    height: 40vh;
+    background-color: bisque;
+}
+
+
+
+ul {
+    list-style-type: none;
+    overflow: auto;
+}
+
+li {
+    float: right;
+    margin-right: 0;
+    padding: 2vh 4vw;
+}
+
+
+#home {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    color: dimgrey;
+    text-transform: uppercase;
+    font-size: 2vh;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: black;
+}
+
+#nav {
+    padding: 10px;
+}
+
+#intro {
+    width: 40vw;
+    margin-top: 20vh;
+    margin-left:30vw;
+    font-size: 10vw; 
+}
+
+#fun_facts {
+    width: 70vw;
+    margin-left: 15vw;
+    margin-top: 1vh; 
+    font-style: italic;
+    font-size: 2vh;
+}
+
+h2 {
+    text-align: center;
+    height: 10vh;
+    padding-top: 5vh;
+}
+
+h4 {
+    text-align: center
+}
+
+#footer {
+    padding-top: 15vh;
+}
+
+img {
+    width: 33.33vw;
+    float: left;
+}
+
+#page4 {
+    height: 10vh;
+    background-color: azure
+}
+
+#instagram {
+    margin: auto;
+    margin-top: 2vh;
+    width: 300px;
+    font-size: 30px;
+    border: 2px solid black;
+    text-align: center
+}

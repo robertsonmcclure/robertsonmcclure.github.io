@@ -11,12 +11,12 @@
 
 #page1 {
     height: 80vh;
-    background-color: azure;
+    background-color: whitesmoke;
 }
 
 #page2 {
     height: 30vh;
-    background-color: beige;
+    background-color: floralwhite;
 }
 
 #page3 {
@@ -25,7 +25,7 @@
 
 #footer {
     height: 40vh;
-    background-color: bisque;
+    background-color: whitesmoke;
 }
 
 
@@ -105,7 +105,11 @@ img {
     margin: auto;
     margin-top: 2vh;
     width: 300px;
-    font-size: 30px;
     border: 2px solid black;
-    text-align: center
+    text-align: center;
+    padding: 5px;
+}
+
+#instagram a {
+    font-size: 30px;
 }

@@ -76,3 +76,7 @@ span {
     width: 100%;
     background-color: red;
 }
+
+aspect img {
+    width: 100%;
+}

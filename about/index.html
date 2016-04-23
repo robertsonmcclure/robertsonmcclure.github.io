@@ -4,7 +4,15 @@ title: About
 ---
 
 <h1>{{ page.title }}</h1>
-<div class="aspect"></div>
+
+<ul>
+
+    {% for aspect in site.aspects %}
+        <li>{{ aspect.title }}</li>
+    {% endfor %}
+
+</ul>
+
 <p class="blurb">Student at UofT</p>
 <p class="blurb">Counsellor at Camp Tawingo</p>
 <p class="blurb">Athlete Pakmen Volleyball</p>

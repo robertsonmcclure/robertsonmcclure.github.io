@@ -70,3 +70,9 @@ span {
 .post {
     color: #333333;
 }
+
+.aspect {
+    height: 300px;
+    width: 100%;
+    background-color: red;
+}

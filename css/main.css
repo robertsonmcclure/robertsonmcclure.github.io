@@ -26,7 +26,8 @@ h1 {
 }
 
 h3 {
-    font-size: 1em;
+    left: 30px;
+    font-size: 2em;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {

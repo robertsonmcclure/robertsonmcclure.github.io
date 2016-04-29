@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "perspective changes everything"
 date: 2016-04-29
 ---

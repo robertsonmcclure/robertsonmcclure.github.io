@@ -40,8 +40,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -54,37 +54,6 @@ ul.posts li a:hover {
     color: black;
 }
 
-.sidebar {
-    width: 30%;
-    float: right;
-}
-
-.main {
-    width: 70%;
-    float: left;
-}
-
-.clear {
-    clear: both;
-}
-
-span {
-    font-size: smaller;
-    color: #999;
-}
-
 .post {
     color: #333333;
-}
-
-.aspect {
-    height: 300px;
-    width: 100%;
-    background-color: red;
-}
-
-.aspect img {
-    max-width: 100%;
-    height: auto;
-    overflow: hidden;
 }

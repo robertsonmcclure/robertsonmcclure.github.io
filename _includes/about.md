@@ -11,5 +11,3 @@ I convene multiple concurrent volleyball tournaments as the [Head Referee for Uo
 I manage this website and [The Reading Line](thereadingline.ca).
 
 I officiate volleyball as a Local Official for the [OVA](http://www.ontariovolleyball.org).
-
-fuck

@@ -1,16 +1,12 @@
----
-layout: default
-title: nuance
----
-    <div class="main">
-        <h1>{{ page.title }}</h1>
-        <h3>a retrospective introspection</h3>
-        <ul class="posts">
+--- layout: default title: nuance ---
+<div class="main">
+    <h1>{{ page.title }}</h1>
+    <h3>a retrospective introspection</h3>
+    <ul class="posts">
 
         {% for post in site.posts %}
-            <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-            <li><a href="{{ post.url }}" title="{{ post.title }}"><span>{{ post.date | date: "%B %-d, %Y" | downcase }}</span></a></li>
-            <br>
-        {% endfor %}
-        </ul>
-    </div>
+        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url }}" title="{{ post.title }}"><span>{{ post.date | date: "%B %-d, %Y" | downcase }}</span></a></li>
+        <br> {% endfor %}
+    </ul>
+</div>

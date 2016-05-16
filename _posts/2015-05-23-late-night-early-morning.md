@@ -4,7 +4,7 @@ title: "late night early morning"
 date: 2015-05-23
 ---
 
-Today began at 12:00am, just like every other day. Unlike every other day, I was not asleep in my bed at midnight. I was saying my goodbyes at Sam Clarke’s birthday party where I had been for the past 4 hours. Eventually I made it home, after 30 minutes of widely careening bicycle headlights and Twist and Shout by the Beatle’s.
+Today began at 12:00am, just like every other day. Unlike every other day, I was not asleep in my bed at midnight. I was saying my goodbyes at Sam Clark’s birthday party where I had been for the past 4 hours. Eventually I made it home, after 30 minutes of widely careening bicycle headlights and Twist and Shout by the Beatle’s.
 
 The morning came jarringly early as my alarm awoke me at exactly 5:30. Later in the day I found myself in a George Brown lecture hall listening to a volunteering from the Pan Am games give us the rundown of exactly what a Results Associate would do. I don’t normally nod off in class, but when I do, I drool on my shirt. I also had to foresight to sit next to the cutest girl in the room, which made my awakening all the more enjoyable for me.
 

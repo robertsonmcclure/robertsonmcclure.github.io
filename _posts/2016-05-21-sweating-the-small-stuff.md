@@ -4,15 +4,15 @@ title:  "sweating the small stuff"
 date:   2016-05-21
 ---
 
-There are many different schools of thought on where to invest your energy. Some are convinced that you must look at the big picture, make 5 and 10 year plans and always be laying groundwork for potential future projects. They warn against getting too caught up in the minutia of whatever you're currently dealing with. I've often heard
+There are many different schools of thought on where to invest your energy. Some are convinced that you must look at the big picture, make 5 and 10 year plans and always be laying groundwork for potential future projects. They often warn against getting too caught up in the minutia. I've heard
 
 > "Penny wise, pound foolish"
 
 preached from individuals who live in this mindset.
 
-On the other end of the spectrum there are those who live in the minutia, the details. These are the people who get caught up their projects obsessively. They miss meals and appointments because they are so engrossed in their attention to detail. These two examples are on the extreme ends of the spectrum, and everyone else, to an extend, lives somewhere in between.
+On the other end of the spectrum there are those who live for detail. These are the people who get caught up their projects obsessively. They miss meals and meetings because they are so engrossed in their task. These are two examples on the extreme ends of the spectrum, and everyone else, to an extent, lives somewhere in between.
 
-An example of finding a balance between attention to detail and big picture thinking can be found in Steve Jobs. There's really no question of the big picture that Jobs had in mind while directing Apple towards being one of the biggest technology companies of the 21st Century. What's often also emphasized is his attention to detail, detail that at the time seems trivial and unimportant. Some may remember a scene from the movie [Jobs (2013)](http://www.imdb.com/title/tt2357129/), where Jobs fires an employee over "adding pretty fonts". While this scenario [didn't actually occur](http://movies.stackexchange.com/questions/21101/who-is-the-employee-that-steve-jobs-fired), Jobs' dedication to the minutia of the project still existed, in a much less dictatorial fashion.
+An example of finding a balance between attention to detail and big picture thinking can be found in Steve Jobs. There's really no question of the big picture that Jobs had in mind while steering Apple towards being one of the biggest technology companies in the 21st Century. His attention to detail is often brought up too, detail that at the time seems trivial and unimportant. Some may remember a scene from the movie [Jobs (2013)](http://www.imdb.com/title/tt2357129/), where Jobs fires an employee over disagreeing with him "adding pretty fonts" to an already behind schedule project. While this scene [didn't actually occur](http://movies.stackexchange.com/questions/21101/who-is-the-employee-that-steve-jobs-fired), Jobs' dedication to the minutia of the project still existed, in a much less dictatorial fashion.
 
 Just this morning I migrated from Helvetica to Work Sans, for my personal website. One of my favourite parts about front-end architecture is the designing of the user experience. I love things that are well designed. The idea that the best designed objects are the ones that we never notice never ceases to fascinate me. For instance, look around you right now, every object in your vicinity was designed by someone. Even if you do know the company that was responsible for designing a specific product, the actual artist behind the design is a nameless employee who sold their brainchild to that company for a pay cheque.
 

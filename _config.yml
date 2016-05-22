@@ -8,7 +8,7 @@
 # Site settings
 title: robertson mcclure
 email: r.mcclure@mail.utoronto.ca
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: "/:title"
 url: "http://robertsonmcclure.ca" # the base hostname & protocol for your site
@@ -17,3 +17,6 @@ github_username:  robertsonmcclure
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap

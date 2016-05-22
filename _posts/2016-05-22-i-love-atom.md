@@ -4,11 +4,6 @@ title:  "i love atom"
 date:   2016-05-22
 ---
 
-[1]: http://stockrender.com/ "StockRender"
-[2]: http://www.vim.org/ "Vim"
-[3]: http://www.sublimetext.com/ "Sublime"
-[4]: https://atom.io/ "Atom"
-
 Just last week I started working for [StockRender][1], a start up based in Toronto. This is a big moment for me because it's the first time I've been paid to write code. Part of me wishes that I had started sooner, been involved more, attended Hackathons, committed daily on Github or anything really. However I'm glad I have the experiences that I've garnered over the years, and wouldn't change it even if I could. That being said I am a bit behind the times when it comes to professionally developing.
 
 At UofT, I recently finished a course that was taught in C. We were encouraged to use the command line for everything and write all our files in [Vim][2]. I never really took to [Vim][2] shortcuts, it was just too hard to break away from my old habits. Since the only time I wrote code was for school, I never really had a developing environment set up on my laptop. I used [Vim][2] when I needed to make some changes and that was about it. Upon joining [StockRender][1], I knew I needed to make some changes.
@@ -108,3 +103,8 @@ There are way too many to comprehensively list here. I highly suggest checking o
 ### Wrapping up
 
 I am very new to [Atom][4], so this is a snapshot of my current state of mind towards my text editor. Over the coming months and years I'll continue to develop my workflow, and hopefully it'll be nice to look back on my current thoughts about [Atom][4]. If you're reading this, I hope I've conveyed exactly why I love [Atom][4] so much. If you find any awesome packages that you think I should know about, please let me know.
+
+[1]: http://stockrender.com/ "StockRender"
+[2]: http://www.vim.org/ "Vim"
+[3]: http://www.sublimetext.com/ "Sublime"
+[4]: https://atom.io/ "Atom"

@@ -5,20 +5,15 @@ desc: nuance - a retrospective introspection
 
 <div class="home">
 
-  <h1>{{ page.desc }}</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        <span class="post-meta">{{ post.excerpt }}</span>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="columns">
+    <img src="face.jpg" height="500px" display="inline-block"/>
+  </div>
+  <div class="columns">
+    <h2>software developer</h2>
+    <h2>assistant coach</h2>
+    <h2>volleyball addict</h2>
+    <h2>cyclist</h2>
+    <h2>student</h2>
+  </div>
 
 </div>

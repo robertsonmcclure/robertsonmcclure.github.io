@@ -14,11 +14,12 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        <!-- {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link hvr-underline-from-center" href="{{ my_page.url | prepend: site.baseurl }}" >{{ my_page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
+        <a class="page-link hvr-underline-from-center" href="/blog/">blog</a>
         <a class="page-link hvr-underline-from-center" href="../resume.pdf" target="_blank">resume</a>
       </div>
     </nav>

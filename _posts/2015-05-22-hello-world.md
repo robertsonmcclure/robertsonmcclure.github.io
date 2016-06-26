@@ -2,6 +2,8 @@
 layout: post
 title: "hello world"
 date: 2015-05-22
+categories: personal
+description: I am not an insightful writer. 
 ---
 
 I am not an insightful writer. I do not expect you to finish reading a piece that I have written and suddenly see things in a new light. I don’t think I’m a particularly good writer. My biggest problem with writing is that I find myself without things to write about. My lack of practice leads to a lack of quality which loops around to the conclusion that I am a poor writer. Yet here we are. I expect to look back at the first post and cringe. Yet here we are. Undertaking things that are difficult is the only way to grow as a person. This will be a welcome addition to my life, a bit more so than my new 5:30am alarm.
@@ -22,5 +24,3 @@ In the process of becoming an adult, I believe change is necessary. I want to ac
 My work out habits began earlier this week, this blog is starting today, my piano habits have been decent since I’ve been home and I haven’t drank alcohol since I had lunch with my dad earlier this month. I seem to be doing alright so far, but we shall see what the future holds.
 
 I intend to use this blog to keep track of my personal thoughts and to slightly monitor these commitments. My mind has been on personal improvement recently and this formalized list is a direct result of that contemplation. Since I don’t want to spend too much time on this little project, I’ll attempt to keep each entry around 500 words.
-
-Time is the only finite resource we possess, thank you for yours

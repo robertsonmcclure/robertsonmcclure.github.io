@@ -2,6 +2,8 @@
 layout: post
 title: "a walk in the woods"
 date: 2015-08-05
+categories: personal
+description: I began and finished a book today. It’s been a while since I began reading a book, and even longer since I finished one. Today was different.
 ---
 
 I began and finished a book today. It’s been a while since I began reading a book, and even longer since I finished one. Today was different. Today I spent a ridiculous amount of time on the TTC with A Walk in the Woods by Bill Bryson. I have missed the small joys of reading physical books. The crips flick of a turning page delights my ear and the texture of paper is a tactile pleasure like none other. Making an exception for recent programming endeavours, it’s been years since I started and finished anything in one day. My backpack today contained three things: my laptop, a novel and a blank journal. While a laptop can run out of battery, and it did, the other two cannot.
@@ -18,4 +20,4 @@ Subway cars are filled with mindless people staring at screens. I do not want to
 
 Some say a picture is worth a thousand words, but the equality does not go the other way. With one thousand words an author can create a landscape so vast a video couldn’t capture it. With one thousand words a writer could sculpt a personality so riddled with nuance that an image would always short. There are many reasons to praise the written word, and I’m afraid I’ve only scratched the surface.
 
-I’ve attempted to stick true to my original first draft, but edits were needed. 
+I’ve attempted to stick true to my original first draft, but edits were needed.

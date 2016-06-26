@@ -2,6 +2,8 @@
 layout: post
 title: "reality check"
 date: 2015-05-31
+categories: personal
+description: I have come to terms with the fact that I will not be able to write a blog post each and every day.
 ---
 
 I have come to terms with the fact that I will not be able to write a blog post each and every day. I will continue to try, but I know that every now and then, due to a heavy work load, I will miss a day. That same philosophy applies to my workout schedule. Since I promised my mother I would help her with Books on Bloor, I was unable to complete my Saturday work out. Add that to the fact that it was raining this morning and I was still exhausted from Saturday: I haven’t worked out yet this weekend.
@@ -23,5 +25,3 @@ My final reality check of this train of thought is very intimidating. After havi
 * Obtain Employable Programming Skills
 
 Getting all that off my chest felt a bit better but I still feel like I am forgetting something. It will come to me eventually. I now want to update my resume with all the work that I’ve put in with my mother’s volunteer events.
-
-Time is the only finite resource we possess, thank you for yours

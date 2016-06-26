@@ -2,6 +2,8 @@
 layout: post
 title: "use nuance in a sentence"
 date: 2015-06-14
+categories: personal
+description: I am very pleased to add “Webmaster” to my resume. The website thereadingline.ca is now under my control, insert evil laughter here.
 ---
 
 I am very pleased to add “Webmaster” to my resume. The website thereadingline.ca is now under my control, insert evil laughter here. I know that if I read the WordPress documentation on how to use their system, I’ll have no trouble doing what needs to be done. However I also know that free information rarely sticks long in memory, so instead of reading anything on how to use the WordPress Theme I inherited, I simply started using it. Of course there were buttons I couldn’t find, and I broke the webpage every now and then, but I’m pleased with the outcome as I am now familiar with WordPress is a decently short amount of time.

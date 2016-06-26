@@ -2,6 +2,8 @@
 layout: post
 title: "a swift marathon"
 date: 2015-06-18
+categories: personal
+description: After much contemplation on where I should turn my focus to, Swift and Apple Application Development has caught me eye.
 ---
 
 After much contemplation on where I should turn my focus to, Swift and Apple Application Development has caught me eye. Of course many people have made buckets of money of developing and selling applications but this isn’t really what pulls me in this direction. I love the idea of creating my own functional app that does exactly what I want it to do, looks exactly how I want it to look and is totally free for me. Ah the little pleasures in life, am I right?
@@ -13,5 +15,3 @@ My self-teaching process began with a literal Swift Marathon, watching all the v
 The thing about app development is that it’s much like creating a meeting. Bare with me through this metaphor as it does have it’s merit. When one creates the meeting there are two things to consider: the people and the topics to be discussed. Likewise when making apps, you have to envision the data structures and objects needed then make them interact with each other. Learning the program in Swift was the equivalent of learning who to invite to a meeting, I figured out each object’s functionality as well as which one to choose to accomplish certain tasks.
 
 To send a message between two objects relies heavily on the language that Swift inherited much of it’s functionality from; Objective-C. Objective-C in turn is based on C, as the name subtly suggests. I have never programmed in C, nor in C++, C# or Objective-C before. The objects in app development need to send “messages” between them to interact and these are all in Objective-C syntax and the like. This is like trying to create discussions in a meeting while everyone speaks a language you have never even heard of before. It made for a long couple of days.
-
-Time is the only finite resource we possess, thank you for yours

@@ -2,6 +2,8 @@
 layout: post
 title: "the girl on the bus"
 date: 2015-07-29
+categories: personal
+description: She was standing at the front of the line as I got on the bus. This tall blonde beauty made me do a double take.
 ---
 
 She was standing at the front of the line as I got on the bus. This tall blonde beauty made me do a double take. As she boards the bus I shift over to open a seat beside me. It’s just my luck that she sits directly in front of me. I end up with a slightly overweight, middle aged man as my seat companion. I accept the defeat and open my laptop, I had recently downloaded three movies and I wanted to finish at least one of them.
@@ -27,5 +29,3 @@ This thoughts are quasi inspired by Mike Pearse, who recently opened a dialog wi
 If I had never floated a soft “Excuse me…” forward on an Ontario Northland bus, I would’ve never made a connection with Hailey. I could’ve clicked on the next movie and amused myself by watching Pitch Perfect 2 or Ex Machina. Hailey seemed perfectly content with browsing Instagram, flicking from account to account, reading comment after comment. I guess Mike’s Lament was floating in my subconscious, and made me shut down my laptop and made a real connection. I guess it’s fitting that a connection that began in spite of technology, ended in the same manner. Even with the plethora of networks that are built on Friending and Following other people, I have no way of contact Hailey.
 
 It feels bitter-sweet because I know, I just know, that there could have been more between us. However I refuse to find The Girl on the Bus through social media. I refuse to contact her with an animated bubble on a screen. If we happen to cross paths again, I will be euphoric, I will be ecstatic and I will be completely over the moon.
-
-Time is the only finite resource we possess, thank you for yours

@@ -2,6 +2,8 @@
 layout: post
 title: "being a runner"
 date: 2015-06-23
+categories: personal
+description: I’ve been described as an athletic person. I play volleyball on a University team and am very passionate about it.
 ---
 
 I’ve been described as an athletic person. I play volleyball on a University team and am very passionate about it. Being 193 cm is also something which many associate with innate athletic talents. Throughout all my years of sport, from soccer to badminton to volleyball and everything else in between, I have never been a runner.
@@ -25,5 +27,3 @@ Because I can.
 There have been days when it feels like I am an 80 year old man waiting to die, thats the feeling I get from pain that prevents me from walking. Being able to run is as freeing as the rush of endorphins that comes immediately afterwards a good work out.
 
 I run because I am able to run.
-
-Time is the only finite resource we possess, thank you for yours

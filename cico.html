@@ -1,0 +1,30 @@
+---
+layout: page
+title: cico - caffeine in code out
+permalink: /blog/cico
+description: a rapscallion discussing his tomfoolery with technology
+---
+
+<div class="home">
+
+  <h1>{{ page.description }}</h1>
+
+  <hr /><br />
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.categories contains 'professional' %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+
+          <span class="post-meta">{{ post.description }}</span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>

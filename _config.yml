@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 permalink: "/:title"
 url: "http://robertsonmcclure.ca" # the base hostname & protocol for your site
 twitter_username: robertsonmcclur
-github_username:  robertsonmcclure 
+github_username:  robertsonmcclure
 
 # Build settings
 markdown: kramdown

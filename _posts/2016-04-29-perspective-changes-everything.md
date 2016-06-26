@@ -2,6 +2,8 @@
 layout: post
 title: "perspective changes everything"
 date: 2016-04-29
+categories: personal
+description: For a while I've been worried about the summer of 2016.
 ---
 
 For a while I've been worried about the summer of 2016. I don't have a solid job lined up yet and the thought that I'm missing out on opportunities has been plaguing me for a while. Everyone my age wants to get a head start on their career, push themselves farther, faster. Whenever these thoughts cross my mind, I try to replace it with a different idea.

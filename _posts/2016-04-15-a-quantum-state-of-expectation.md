@@ -2,6 +2,8 @@
 layout: post
 title: "a quantum state of expectation"
 date: 2016-04-15
+categories: personal
+description: With exam season in full swing at the University of Toronto, I thought I’d reflect on my attitude towards finals. 
 ---
 
 With exam season in full swing at the University of Toronto, I thought I’d reflect on my attitude towards finals. Much like everything else in life, attitude and effort are the only things that one can control. This leads me to the question, what attitude do I have during exam season?
@@ -25,9 +27,9 @@ I am talking a lot about the preparation for an exam, but one of the most import
 I find the environment created outside an exam rom to be one of the most toxic and detrimental environments to be surrounded by. I arrive early and then take a walk. There’s no use worrying now. One of the biggest things I do to reduce the stress is to let go of the things you can’t control. Before every exam I write I say to myself:
 
 > _I **know** what I **know**._
-> 
+>
 > _I **don’t know** what I **don’t know**._
-> 
+>
 > _That’s **all** I can do._
 
 Many student gripe that “If only I had studied more” they would’ve done better. At this point, minutes before an exam is scheduled to start, you can’t change any of your preparation. So I accept the fact that the amount of preparation I’ve put in is enough to solve the puzzles presented to me by the examination. This confidence in my own abilities has to be slightly manufactured, but once I buy into it, and I always do, it helps.

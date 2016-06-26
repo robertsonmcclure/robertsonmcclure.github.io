@@ -2,6 +2,8 @@
 layout: post
 title: "the out of doors"
 date: 2015-05-27
+categories: personal
+description: Being outside makes me very happy. 
 ---
 
 Being outside makes me very happy. That is one of the reasons why I have chosen to spend my summers at Camp Tawingo. There is a phrase used by the Camp Director, Mike Pearse, that has stuck with me throughout the years. It goes something like “We have fun building great kids in the out-of-doors”. That last bit always makes me stop and think. “Out-of-doors” sounds so similar to the very common “outdoors” but adding that third syllable changes it. It makes it an entirely different creature.
@@ -13,5 +15,3 @@ I have always always always studied facing a window. When I was growing up my ho
 This window-philic behavour was never a conscious decision, but has unconsciously driven me to be in areas with natural light. I would study outside if I could, but I can’t. I can’t study outside because working in direct sunlight is not reasonable to me. In addition wind always has the habit of picking up important documents the second your focus leaves them. Thus my ideal study space, or living space for that matter, is one with a lot of natural light. As I write this I am sitting at my dining room table, facing three large windows that give me a view of the front yard and subsequent cul-de-sac.
 
 Being addicted to windows isn’t the worst addiction out there. I can think of many worse off the top of my head. It also explains my lack of productivity in windowless spaces and subsequent less-than-pleased mood. The more you know yourself, the better suited you are to dealing with yourself. This may seem trivial, but I feel I know myself a little bit better now.
-
-Time is the only finite resource we possess, thank you for yours

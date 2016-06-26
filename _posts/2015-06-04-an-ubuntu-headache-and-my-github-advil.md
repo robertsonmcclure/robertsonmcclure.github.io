@@ -2,6 +2,8 @@
 layout: post
 title: "an ubuntu headache and my github advil"
 date: 2015-06-04
+categories: personal
+description: My odyssey started last night when I decided I should look into Linux as an Operating System. Once down the rabbit hole it is very hard to return.
 ---
 
 My odyssey started last night when I decided I should look into Linux as an Operating System. Once down the rabbit hole it is very hard to return. The roadblocks I encountered were peculiar to say the least.
@@ -21,5 +23,3 @@ Having come to this refreshing realization I escaped to the out-of-doors to enjo
 Reflecting, I didn’t fully waste the last 24 hours with my exploration of Ubuntu, because my old Macbook Pro has had new life breathed into it. It lead me to refocus on Github and I am happy with the resulting effect.
 
 I’m feeling pretty jumpy as I have switched from task to task over the last week. From learning HTML/CSS, JavaScript, Objective-C, Swift, jQuery, Ubuntu and the inner workings of Github. I feel like an extremely hungry dog in the middle of a room filled with treats, so many things to do, so many options to choose from. The fear is that I’ll be too shallow with each of my explorations and only skim the surface of the possible pool of knowledge. Conversely I don’t want to get too in-depth as I may never get the chance to use that knowledge. I hope that I am maintaining a healthy balance of focus and diversity. However I am sure of one thing: I’m learning more things per day than I ever have before.
-
-Time is the only finite resource we posses, thank you for yours.

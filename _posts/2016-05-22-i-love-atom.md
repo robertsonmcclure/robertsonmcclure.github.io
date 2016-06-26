@@ -2,9 +2,11 @@
 layout: post
 title: i love atom
 date: 2016-05-22T00:00:00.000Z
+categories: professional
+description: Just last week I started working for StockRender, a start up based in Toronto. 
 ---
 
-Just last week I started working for [StockRender][1], a start up based in Toronto. This is a big moment for me because it's the first time that I've been paid to write code. Part of me wishes that I could have started sooner, been involved more, attended Hackathons, committed daily on Github or anything really. However I'm glad I have the experiences that I've garnered over the years, and wouldn't change it even if I could. That being said, I am a bit behind the times when it comes to professionally developing.
+Just last week I started working for [StockRender][1], a start up based in Toronto. This is a big moment for me because it's the first time that I've been paid to write code. <!--more--> Part of me wishes that I could have started sooner, been involved more, attended Hackathons, committed daily on Github or anything really. However I'm glad I have the experiences that I've garnered over the years, and wouldn't change it even if I could. That being said, I am a bit behind the times when it comes to professionally developing.
 
 At UofT, I recently finished a course that was taught in C. We were encouraged to use the command line for everything and write all our programs in [Vim][2]. I never really took to [Vim][2] shortcuts, it was just too hard to break away from my old habits. Since the only time I wrote code was for school, I never really had a developing environment set up on my laptop. I used [Vim][2] when I needed to make some changes and that was about it. Upon joining [StockRender][1], I knew I needed to make some changes.
 

@@ -2,9 +2,13 @@
 layout: post
 title: artistic integrity
 date: 2016-05-31T00:00:00.000Z
+categories: personal
+description: This is a piece written by Bill Watterson regarding liscensing. 
 ---
 
-The following is a piece written by Bill Watterson, with regard to licensing. I recently found this, and never want it to disappear.
+The following is a piece written by Bill Watterson regarding licensing. I recently found this, and never want it to disappear.
+
+<!--more-->
 
 --------------------------------------------------------------------------------
 

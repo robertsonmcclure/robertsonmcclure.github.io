@@ -12,22 +12,16 @@
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
+          {% if site.github %}<li><a href="https://github.com/{{ site.github }}"><span>open source</span></a></li>{% endif %}
+          {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}"><span>140 characters</span></a>{% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <ul class="social-media-list">
+          {% if site.instagram %}<li><a href="https://instagram.com/{{ site.instagram }}"><span>square photos</span></a></li>{% endif %}
+          {% if site.linkedin %}<li><a href="https://linkedin.com/in/{{ site.github }}"><span>professional contacts</span></a></li>{% endif %}
+        </ul>
       </div>
     </div>
 

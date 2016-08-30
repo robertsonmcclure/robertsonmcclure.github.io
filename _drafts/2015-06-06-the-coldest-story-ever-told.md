@@ -8,7 +8,7 @@ description: The Day That I Learned to Love the Bus. The date is Saturday June 6
 
 The Day That I Learned to Love the Bus
 
-The date is Saturday June 6th and it is 5am. I begrudgingly roll out of bed and attempt to make myself cereal. <!--more--> No matter how hard I try I cannot get the ratio of cereal to milk right. The fact that I am still asleep did not help my cause. I’m supposed to help my mother install her Urban Intervention in the fifteen minutes. I can barely walk down stairs so I stay home while she tries to change the city one street at a time.
+The date is Saturday June 6th and it is 5am. I begrudgingly roll out of bed and attempt to make myself cereal. No matter how hard I try I cannot get the ratio of cereal to milk right. The fact that I am still asleep did not help my cause. I’m supposed to help my mother install her Urban Intervention in the fifteen minutes. I can barely walk down stairs so I stay home while she tries to change the city one street at a time.
 
 For the past month I had been looking forward to this day, or more importantly this weekend. I had been invited to a cottage to not only spend the weekend frolicking around a lake, but to share in the joy of watching Episode 9 Season 5 of Game of Thrones. I’m more excited to get into a canoe than to watch television, as crazy as that may sound. Ever since I was 11 years old I’ve spent a portion of my summer at Camp Tawingo. This will be the first year in almost a decade that I won’t be spending at least two weeks enjoying the great out-of-doors at Camp Tawingo.
 

@@ -1,31 +1,43 @@
-# Site
-title: Robertson McClure
-email: r.mcclure@mail.utoronto.ca
-description: eclectically everything
-url: http://robertsonmcclure.ca
-baseurl: ""
+# Site settings
+title: 'Robertson McClure'
+description: 'Robertson McClure - Software Developer'
+about: 'Software Developer'
+url: 'http://robertsonmcclure.ca'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
-# Jekyll
-permalink: "/:title"
+author:
+  name: 'Robertson McClure'
+  email: r.mcclure@mail.utoronto.ca
+  twitter_username: robertsonmcclur
+  instagram_username: robertsonmcclure
+  github_username:  robertsonmcclure
+  linkedin_username:  robertsonmcclure
+
+collections:
+- projects
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
 markdown: kramdown
 highlighter: rouge
+
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  enable_coderay: false
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-# Google Analytics
-google-analytics: UA-79717942-1
-
-# Social Links
-twitter:      robertsonmcclur
-github:       robertsonmcclure
-instagram:    robertsonmcclure
-linkedin:     robertsonmcclure
-
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  # - jekyll-assets
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

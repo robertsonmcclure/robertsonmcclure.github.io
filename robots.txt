@@ -1,3 +1,0 @@
-User-agent: *
-Sitemap: http://www.robertsonmcclure.ca/sitemap.xml
-Disallow: /about.md

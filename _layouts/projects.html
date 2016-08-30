@@ -9,7 +9,7 @@ layout: default
 <ul style="list-style-type:none;margin-left:0;">
   {% for project in site.projects %}
   <li>
-    <h3><a href="{{ project.url }}" target="_blank">{{ project.title }} - {{ project.type}}</a></h3>
+    <h3><a href="{{ project.link }}" target="_blank">{{ project.title }} - {{ project.type}}</a></h3>
     <div style="padding-left:40px;">
       {{ project.content }}
     </div>

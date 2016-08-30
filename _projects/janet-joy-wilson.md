@@ -1,7 +1,7 @@
 ---
 title: Janet Joy Wilson
 type: Website
-url: http://janetjoywilson.ca
+link: http://janetjoywilson.ca
 ---
 
 I created a novel website for Janet, one that felt like a book.

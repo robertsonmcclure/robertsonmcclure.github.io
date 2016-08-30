@@ -1,7 +1,7 @@
 ---
 title: The Reading Line
 type: Website
-url: http://www.thereadingline.ca
+link: http://www.thereadingline.ca
 ---
 
 I inherited thereadingline.ca as a WordPress site.

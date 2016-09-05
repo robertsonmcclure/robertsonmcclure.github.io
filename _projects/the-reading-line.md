@@ -2,8 +2,9 @@
 title: The Reading Line
 type: Website
 link: http://thereadingline.github.io
+img: thereadingline.png
+weight: 3
 ---
 
-I inherited thereadingline.ca as a WordPress site, and [the old site is still live here](http://www.thereadingline.ca).
-It's unwieldy and has all these little bugs that I don't have the time nor patience to get rid of.
-That is why I've created a  [Jekyll](https://jekyllrb.com/) site to take its place.
+The Reading Line began as a [WordPress site](http://www.thereadingline.ca) before it was passed on to me.
+It was unwieldy and had so many bugs. Thank you [Jekyll](https://jekyllrb.com) for not being a pain.

@@ -7,12 +7,17 @@ layout: default
 <hr class="divider"/>
 
 <ul style="list-style-type:none;margin-left:0;">
-  {% for project in site.projects %}
+  {% assign sorted = (site.projects | sort: 'weight') %}
+  {% for project in sorted %}
   <li>
-    <h3><a href="{{ project.link }}" target="_blank">{{ project.title }} - {{ project.type}}</a></h3>
-    <div style="padding-left:40px;">
+    <a href="{{ project.link }}" target="_blank" style="height:200px;">
+      <img src="{{ site.url }}/images/projects/{{ project.img }}" style="width:100%;" />
+      <h2 style="display:inline-block;line-height:initial;">{{ project.title }} - {{ project.type}}</h2>
+    </a>
+    <p>
       {{ project.content }}
-    </div>
+    </p>
+    <hr class="divider" />
   </li>
   {% endfor %}
 </ul>

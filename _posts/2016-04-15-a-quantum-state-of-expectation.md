@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a quantum state of expectation"
+title: "A Quantum State of Expectation"
 date: 2016-04-15
 tags: [ideas]
 excerpt: With exam season in full swing at the University of Toronto, I thought I’d reflect on my attitude towards finals.

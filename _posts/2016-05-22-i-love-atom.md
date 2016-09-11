@@ -1,6 +1,6 @@
 ---
 layout: post
-title: i love atom
+title: "I Love Atom"
 date: 2016-05-22T00:00:00.000Z
 tags: [technology]
 excerpt: Just last week I started working for StockRender, a start up based in Toronto.

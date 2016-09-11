@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "choose your own adventure"
+title: "Choose your own Adventure"
 date: 2016-03-10
 tags: [work]
 excerpt: Last night I had the pleasure of meeting with alumni from Victoria College at the University of Toronto. One of the alumnus told me that “The greatest force in life is inertia”.
@@ -15,7 +15,7 @@ Last night I had the pleasure of meeting with alumni from Victoria College at th
 >The answer is inertia.
 >
 >Everyone is told to follow their dreams, but the second they become eligible to join the work force, everyone around them advocates that they should lock up a solid job, something that will pay rent.
-> 
+>
 >The problem is that once an individual is somewhere, it’s very hard to change direction, that is, after all, what inertia means."
 
 Aside from being overly hard on those who work in insurance, I think he has a point. It’s so very easy to stay on the path that you’re on, the path of least resistance. Since leaving the path requires effort, and since the destination of the path “doesn’t seem bad, I guess”, most choose to stay the course. What’s unfortunate is that many get stuck in a rut, the rut that their “temporary” job has dug for them. Changing direction not only requires stopping your current trajectory, but pushing yourself in another.

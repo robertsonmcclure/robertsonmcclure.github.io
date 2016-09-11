@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "shut up and listen"
+title: "Shut Up and Listen"
 date: 2016-02-16
 tags: [ideas]
 excerpt: Time is speeding up. It’s an inevitable part of being human.

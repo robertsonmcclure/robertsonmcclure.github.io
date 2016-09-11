@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sweating the small stuff"
+title:  "Sweating the Small Stuff"
 date:   2016-05-21
 tags: [ideas]
 excerpt: There are many different schools of thought on where to invest your energy.

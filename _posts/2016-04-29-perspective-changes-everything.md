@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "perspective changes everything"
+title: "Perspective Changes Everything"
 date: 2016-04-29
 tags: [ideas]
 excerpt: For a while I've been worried about the summer of 2016.

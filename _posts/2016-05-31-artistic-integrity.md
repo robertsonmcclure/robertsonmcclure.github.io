@@ -1,6 +1,6 @@
 ---
 layout: post
-title: artistic integrity
+title: Artistic Integrity
 date: 2016-05-31T00:00:00.000Z
 tags: [ideas]
 excerpt: This is a piece written by Bill Watterson regarding liscensing.

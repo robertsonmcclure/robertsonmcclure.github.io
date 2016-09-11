@@ -1,6 +1,6 @@
 ---
 layout: post
-title: seo achievement unlocked
+title: SEO Achievement Unlocked
 date: 2016-07-01
 tags: [technology]
 excerpt: After a couple hours of work spread over a couple weeks, my personal website finally cracked the first page of Google's search result for "robertson mcclure"

@@ -2,7 +2,7 @@
 layout: post
 title: "Finding a Silver Lining"
 date: 2016-03-24
-tags: [optimism]
+tags: [personal]
 excerpt: Sometime between the hours of 7am and 8:30am on Tuesday March 22nd 2016, my iPhone 5S was stolen.
 ---
 

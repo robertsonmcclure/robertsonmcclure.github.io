@@ -2,25 +2,22 @@
 layout: default
 ---
 <article class="post-container post-container--single">
+  <h1 class="post-title">Projects</h1>
+  <hr class="divider"/>
 
-<h1 class="post-title">Projects</h1>
-<hr class="divider"/>
-
-<ul style="list-style-type:none;margin-left:0;">
-  {% assign sorted = (site.projects | sort: 'weight') %}
-  {% for project in sorted %}
-  <li>
-    <a href="{{ project.link }}" target="_blank" style="height:200px;">
-      <img src="{{ site.url }}/images/projects/{{ project.img }}" style="width:100%;" />
-      <h2 style="display:inline-block;line-height:initial;">{{ project.title }} - {{ project.type}}</h2>
-    </a>
-    <p>
-      {{ project.content }}
-    </p>
-    <hr class="divider" />
-  </li>
-  {% endfor %}
-</ul>
-
-
+  <ul style="list-style-type:none;margin-left:0;">
+    {% assign sorted = (site.projects | sort: 'weight') %}
+    {% for project in sorted %}
+    <li>
+      <a href="{{ project.link }}" target="_blank" style="height:200px;">
+        <img src="{{ site.url }}/images/projects/{{ project.img }}" style="width:100%;" />
+        <h2 style="display:inline-block;line-height:initial;">{{ project.title }} - {{ project.type}}</h2>
+      </a>
+      <p>
+        {{ project.content }}
+      </p>
+      <hr class="divider" />
+    </li>
+    {% endfor %}
+  </ul>
 </article>

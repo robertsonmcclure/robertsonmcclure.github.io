@@ -6,7 +6,7 @@ tags: [ideas]
 excerpt: "Viewing difficult things from the perspective of a camp counsellor"
 ---
 
-I worked as a counsellor at [Camp Tawingo](http://tawingo.net) for three summers. It's a wonderful place and I will highly recommend it to anyone interested in sending their child to summer camp. The culture of the camp, paired with it's unparalleled staff training, create an atmosphere that fosters growth. During my three summers I attended countless seminars and training sessions. They were always engaging, different, and cleverly nuanced in their own way. They not only created a platform to start a dialog over an issue, but also provided solutions to situations.
+I worked as a counsellor for [Camp Tawingo](http://tawingo.net) over the course of three summers. It's a wonderful place and I would highly recommend it to anyone interested in sending their child to summer camp. The culture of the camp, paired with it's unparalleled staff training, create an atmosphere that fosters growth. During my three summers I attended countless seminars and training sessions. They were always engaging, different, and cleverly nuanced in their own way. They not only created a platform to start a dialog over an issue, but also provided solutions to situations.
 
 One such seminar contained a phrase which resonated with me.
 

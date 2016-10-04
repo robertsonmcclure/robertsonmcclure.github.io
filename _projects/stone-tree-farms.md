@@ -3,7 +3,7 @@ title: Stonetree Farms
 type: Website
 link: http://stonetreefarms.github.io
 img: stonetreefarms.png
-weight: 4
+weight: 5
 ---
 
 I was asked to propose a redesign to Stonetree Farm's [current website](http://stonetreefarms.ca).

@@ -3,7 +3,7 @@ title: Robertson McClure
 type: Website
 link: http://robertsonmcclure.ca
 img: robertsonmcclure.png
-weight: 5
+weight: 6
 ---
 
 Until I found [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com),

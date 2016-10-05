@@ -1,45 +1,19 @@
-# Site settings
 title: 'Robertson McClure'
-description: 'Robertson McClure is a student, software developer and volleyball coach'
-about: 'Software Developer'
+description: 'Robertson McClure is a student, software developer and volleyball coach.'
 url: 'http://robertsonmcclure.ca'
-baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
-
-google_analytics: UA-79717942-1
-
-author:
-  name: 'Robertson McClure'
-  email: r.mcclure@mail.utoronto.ca
-  twitter_username: robertsonmcclur
-  instagram_username: robertsonmcclure
-  github_username:  robertsonmcclure
-  linkedin_username:  robertsonmcclure
-
-collections:
-- projects
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
 destination: _site
-paginate: 10
 permalink: /:title/
 markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+sass:
+  style: compressed
+social:
+  - account: github
+    link: https://github.com/robertsonmcclure
+  - account: twitter
+    link: https://twitter.com/robertsonmcclur
+  - account: instagram
+    link: https://instagram.com/robertsonmcclure
+  - account: linkedin
+    link: https://linkedin.com/in/robertsonmcclure
+collections:
+- projects

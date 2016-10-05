@@ -1,0 +1,170 @@
+---
+# Stylesheet
+---
+
+$theme: #2A93D5;
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+}
+
+h2,h3,h4,h5,h6,span,p,ul,li,ol {
+  font-family: "Work Sans", sans-serif;
+  letter-spacing: 1px;
+}
+
+ul {
+  list-style-type: circle;
+  text-align: left;
+}
+
+li {
+  line-height: 1.8em;
+  font-size: 1.2em;
+}
+
+img {
+  width: 75%;
+  margin: auto;
+}
+
+blockquote {
+  background-color: lighten($theme, 40);
+  padding: 10px;
+  border-radius: 6px;
+  text-align: center;
+  margin: 0;
+  p {
+    text-align: center;
+  }
+}
+
+hr {
+  margin-bottom: 60px;
+}
+
+p {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  line-height: 1.8em;
+  color: #333;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: $theme;
+  &:hover {
+    color: darken($theme, 20);
+  }
+}
+
+header {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  width: 50em;
+  padding-top: 6em;
+  margin: auto;
+  a {
+    padding: 2%;
+    display: block;
+    color: #333;
+    border: 1px solid #333;
+    &:hover {
+      color: $theme;
+      border-color: $theme;
+    }
+  }
+  h1 {
+    letter-spacing: 6px;
+    text-align: center;
+    font-size: 5em;
+    margin-bottom: 30px;
+  }
+  .about {
+    text-align: center;
+    margin: 30px 0;
+    color: #666;
+    h2 {
+      margin: 0 15px;
+      display: inline-block;
+    }
+  }
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+    width: 50em;
+    margin: auto;
+    letter-spacing: 2px;
+    li {
+      float: left;
+      width: 23%;
+      font-size: 2em;
+      margin: 1%;
+    }
+  }
+}
+
+.container {
+  width: 50em;
+  padding-top: 2em;
+  padding-bottom: 150px;
+  margin: 0 auto;
+  text-align: center;
+  h1,h2,h3 {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  h1 {
+    font-size: 3.5em;
+    padding-bottom: 15px;
+    letter-spacing: 4px;
+    a {
+      color: black;
+      &:hover {
+        color: $theme;
+      }
+    }
+  }
+  h2 {
+    font-size: 2.5em;
+    letter-spacing: 2px;
+  }
+  h3 {
+    letter-spacing: 2px;
+  }
+  span {
+    color: #999;
+  }
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
+  text-align: center;
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+    width: 50em;
+    margin: auto;
+    li {
+      letter-spacing: 2px;
+      float: left;
+      width: 23%;
+      font-size: 1.5em;
+      margin: 1%;
+    }
+  }
+}

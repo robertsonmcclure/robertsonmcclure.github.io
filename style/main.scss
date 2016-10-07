@@ -13,6 +13,7 @@ body {
   position: relative;
   margin: 0;
   min-height: 100%;
+  box-sizing: border-box;
 }
 
 h2,h3,h4,h5,h6,span,p,ul,li,ol {
@@ -68,9 +69,12 @@ a {
 
 header {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
-  width: 50em;
-  padding-top: 6em;
+  width: 100%;
+  max-width: 800px;
+  padding-top: 100px;
   margin: auto;
+  box-sizing: border-box;
+  padding-bottom: 100px;
   a {
     padding: 2%;
     display: block;
@@ -85,7 +89,7 @@ header {
     letter-spacing: 6px;
     text-align: center;
     font-size: 5em;
-    margin-bottom: 30px;
+    margin-bottom: 70px;
   }
   .about {
     text-align: center;
@@ -100,9 +104,10 @@ header {
     list-style-type: none;
     padding-left: 0;
     text-align: center;
-    width: 50em;
+    width: 100%;
     margin: auto;
     letter-spacing: 2px;
+    overflow: auto;
     li {
       float: left;
       width: 23%;
@@ -113,9 +118,10 @@ header {
 }
 
 .container {
-  width: 50em;
-  padding-top: 2em;
-  padding-bottom: 150px;
+  width: 100%;
+  max-width: 800px;
+  padding: 50px 40px 100px 40px;
+  box-sizing: border-box;
   margin: 0 auto;
   text-align: center;
   h1,h2,h3 {
@@ -148,6 +154,7 @@ header {
 
 footer {
   position: absolute;
+  overflow: auto;
   right: 0;
   bottom: 0;
   left: 0;
@@ -157,7 +164,8 @@ footer {
     list-style-type: none;
     padding-left: 0;
     text-align: center;
-    width: 50em;
+    width: 100%;
+    max-width: 800px;
     margin: auto;
     li {
       letter-spacing: 2px;
@@ -165,6 +173,19 @@ footer {
       width: 23%;
       font-size: 1.5em;
       margin: 1%;
+    }
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  header {
+    h1 {
+      font-size: 3em;
+    }
+    ul {
+      li {
+        width: 98%;
+      }
     }
   }
 }

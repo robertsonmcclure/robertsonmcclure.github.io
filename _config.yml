@@ -7,13 +7,13 @@ markdown: kramdown
 sass:
   style: compressed
 social:
-  - account: github
+  - account: fa-github
     link: https://github.com/robertsonmcclure
-  - account: twitter
+  - account: fa-twitter
     link: https://twitter.com/robertsonmcclur
-  - account: instagram
+  - account: fa-instagram
     link: https://instagram.com/robertsonmcclure
-  - account: linkedin
+  - account: fa-linkedin
     link: https://linkedin.com/in/robertsonmcclure
 collections:
 - projects

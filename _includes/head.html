@@ -13,7 +13,7 @@
   <meta name="twitter:site" content="@robertsonmcclur" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html  }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}{{ site.defaultImage }}{% endif %}" />
+  <meta name="twitter:image" content="{{ site.url }}/images/blog/{% if page.image %}{{ page.image }}{% else %}{{ site.defaultImage }}{% endif %}" />
 
   <meta property="og:type" content="article">
   <meta property="og:title" content="{{ site.title }}">

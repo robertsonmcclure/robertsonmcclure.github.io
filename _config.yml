@@ -1,6 +1,6 @@
 title: 'Robertson McClure'
 description: 'Robertson McClure is a student, software developer and volleyball coach.'
-url: 'http://robertsonmcclure.ca'
+url: 'https://robertsonmcclure.ca'
 destination: _site
 image: cn-tower.jpg
 permalink: /:title/

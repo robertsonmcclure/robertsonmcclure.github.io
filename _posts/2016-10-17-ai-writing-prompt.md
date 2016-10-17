@@ -3,7 +3,7 @@ layout: post
 title: AI Writing Prompt
 date: 2016-10-17
 tags: [writing]
-img: ai-writing-prompt.jpg
+img: ai-writing-prompt.png
 ---
 
 Some say that Artificial Intelligence will mark the end of mankind, while others posit that it will bring utopian life to earth. Most of us hold one of these two beliefs for a short period of time, and then completely forget about it because our attention spans are ridiculously short and we are constantly in search of new entertainment. It's pretty sad how short a life span news stories have these days. If you are lucky, an idea will circulate popular culture for a week, a month at most, and then fade from the public eye. AI generally gets media attention when

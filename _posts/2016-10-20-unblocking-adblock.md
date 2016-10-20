@@ -3,7 +3,7 @@ layout: post
 title: Unblocking Adblock
 date: 2016-10-20
 tags: [technology]
-img:
+img: block-ads.jpg
 ---
 
 I love [AdBlock](https://getadblock.com/), advertisers do not. I just don't like ads, but websites do. Advertisements make money for sites so it makes sense that some have started to try and get their users to stop using services like AdBlock. Some sites do this in a nice way, and this works every now and then.
@@ -63,7 +63,7 @@ My first instinct was to simply delete
 
 since they were very obviously the divs that were obstructing my vision. If you actually go to [the Narcity article that I'm using](http://www.narcity.com/toronto/24-midterm-struggles-that-have-all-students-in-tears-right-now/) and test out what I'm doing, you'll see that this doesn't quite solve the problem. First of all, the content is slid to the right making most of it unreadable. Also, scrolling is disabled.
 
-On further inspection I noticed that there was a class called `ablk-slid`. Thank you for the informative name! You can double click on the element and edit the text, so I removed that class. Lo and Behold, the content went back to it's proper place on the page! But scrolling still didn't work.
+On further inspection I noticed that there was a class called `ablk-slid`. Thank you for the informative name! You can double click on the element and edit the text, so I removed that class. Lo and behold, the content went back to it's proper place on the page! But scrolling still didn't work.
 
 After a quick google search, I found that a way to disable scrolling is with the css `overflow: hidden;` applied to `html` and `body`. So I went to `html` and `body` and sure enough, I found `style="overflow:hidden;"` in both of them. Double click, mash the backspace key, and voilà!
 

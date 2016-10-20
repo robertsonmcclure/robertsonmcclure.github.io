@@ -20,7 +20,7 @@ However, other websites are less tactful and simply lose visitors.
 
 The thing about AdBlock is that it's no longer used _just for_ removing pesky ads from your peripheral vision. AdBlock also [deals with malware](http://www.makeuseof.com/tag/adblock-protect-browser-malware/) and turning it off can be dangerous.
 
-For example, in December 2015 [Forbes started experimenting with blocking visitors using AdBlock](http://www.wsj.com/articles/forbes-tests-new-tactics-to-combat-ad-blocking-1463133628). With Forbes taking such a hard stance against AdBlock it had the potential to set the precedent for how websites balanced AdBlock users and revenue generated from ads. The problem was that once you did turn off AdBlock, you were immediately served with [ads filled with Malware](http://www.networkworld.com/article/3021113/security/forbes-malware-ad-blocker-advertisements.html). This eventually led to Forbes becoming [more lenient with AdBlock using visitors](http://www.niemanlab.org/2016/06/forbes-has-quit-bugging-some-people-about-their-adblockers/) which is why when I visit [Forbes](http://www.forbes.com/), I can read all the content that I want while using AdBlock.
+For example, in December 2015 [Forbes started experimenting with blocking visitors using AdBlock](http://www.wsj.com/articles/forbes-tests-new-tactics-to-combat-ad-blocking-1463133628). With Forbes taking such a hard stance against AdBlock it had the potential to set the precedent for how websites balanced AdBlock users and revenue generated from ads. The problem was that once you did turn off AdBlock, you were immediately served with [ads filled with Malware](http://www.networkworld.com/article/3021113/security/forbes-malware-ad-blocker-advertisements.html). This eventually led to Forbes becoming [more lenient with AdBlock using visitors](http://www.niemanlab.org/2016/06/forbes-has-quit-bugging-some-people-about-their-adblockers/), which is why when I visit [Forbes](http://www.forbes.com/), I can read all the content that I want while using AdBlock.
 
 However, this has not stopped other sites from trying to enforce the disabling of AdBlock. For example, [Wired gives two options](https://www.wired.com/how-wired-is-going-to-handle-ad-blocking/), either add Wired to the AdBlock's whitelist or asking you to pay for the privilege of not seeing ads through a weekly subscription.
 
@@ -39,17 +39,19 @@ If these are your goals, then perhaps I can help:
 - Don't pay for the privilege of not seeing ads
 - Don't give your data away willy nilly
 
-All that you need to do is right click and select Inspect. If you decide to go through the DOM elements, you'll see that some are there to prevent you seeing the rest of the site. These are usually `div`s containing classes like `ablk`, `shown` or some variation of that. Since each site does this differently, I can't provide a catch all solution... but I can show you a specific solution.
+All that you need to do is right click and select Inspect. If you decide to go through the DOM elements, you'll see that some are there to prevent you seeing the rest of the site. These are usually divs containing classes like ablk, shown or some variation of that. Since each site does this differently, I can't provide a one-size-fits-all solution... but I can show you how I dealt with a specific website.
 
 Let's look at Narcity, because this was the first site that I encountered anti-AdBlock measures. If we Inspect and start looking through the elements, we see the following:
 
 ```html
+...
 <nav class="top-nav"></nav>
-<header class="header ablk-slid"></header>
+<header class="header ablk-slid">...</header>
 <div class="ablk-login-slide-back shown" style="display: block;"></div>
-<div class="ablk-login-slide shown" style="display: block;"></div>
-<div class="ad-bottom-floater"></div>
-<div id="container" class="ablk-slid"></div>
+<div class="ablk-login-slide shown" style="display: block;">...</div>
+<div class="ad-bottom-floater">...</div>
+<div id="container" class="ablk-slid">...</div>
+...
 ```
 
 My first instinct was to simply delete
@@ -59,10 +61,16 @@ My first instinct was to simply delete
 <div class="ablk-login-slide shown" style="display: block;">...</div>
 ```
 
-since they were very obviously the `div`s that were obstructing my vision. If you actually go to [the Narcity article that I'm using](http://www.narcity.com/toronto/24-midterm-struggles-that-have-all-students-in-tears-right-now/) and test out what I'm doing, you'll see that this doesn't quite solve the problem. First of all, the content is slid to the right making most of it unreadable. Also, scrolling is disabled.
+since they were very obviously the divs that were obstructing my vision. If you actually go to [the Narcity article that I'm using](http://www.narcity.com/toronto/24-midterm-struggles-that-have-all-students-in-tears-right-now/) and test out what I'm doing, you'll see that this doesn't quite solve the problem. First of all, the content is slid to the right making most of it unreadable. Also, scrolling is disabled.
 
 On further inspection I noticed that there was a class called `ablk-slid`. Thank you for the informative name! You can double click on the element and edit the text, so I removed that class. Lo and Behold, the content went back to it's proper place on the page! But scrolling still didn't work.
 
 After a quick google search, I found that a way to disable scrolling is with the css `overflow: hidden;` applied to `html` and `body`. So I went to `html` and `body` and sure enough, I found `style="overflow:hidden;"` in both of them. Double click, mash the backspace key, and voilà!
 
-The website is back to normal! No whitelisting, payments or data needed. If this wasn't comprehensive enough, check it out in action!
+The website is back to normal! No whitelisting, payments or data needed.
+
+Check it out in action:
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/755IosqbMZ8" frameborder="0" allowfullscreen></iframe>
+</div>

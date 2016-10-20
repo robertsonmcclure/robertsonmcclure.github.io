@@ -18,11 +18,11 @@ However, other websites are less tactful and simply lose visitors.
 
 > For the sake of readability, I will refer to any ad blocking service as AdBlock
 
-The thing about AdBlock is that it's no longer used _just for_ removing pesky ads from your peripheral vision. AdBlock also [deals with malware](http://www.makeuseof.com/tag/adblock-protect-browser-malware/) and turning it off can be dangerous.
+The thing about AdBlock is that it's no longer used just for removing pesky ads from your peripheral vision. AdBlock also [deals with malware](http://www.makeuseof.com/tag/adblock-protect-browser-malware/) and turning it off can be dangerous.
 
 For example, in December 2015 [Forbes started experimenting with blocking visitors using AdBlock](http://www.wsj.com/articles/forbes-tests-new-tactics-to-combat-ad-blocking-1463133628). With Forbes taking such a hard stance against AdBlock it had the potential to set the precedent for how websites balanced AdBlock users and revenue generated from ads. The problem was that once you did turn off AdBlock, you were immediately served with [ads filled with Malware](http://www.networkworld.com/article/3021113/security/forbes-malware-ad-blocker-advertisements.html). This eventually led to Forbes becoming [more lenient with AdBlock using visitors](http://www.niemanlab.org/2016/06/forbes-has-quit-bugging-some-people-about-their-adblockers/), which is why when I visit [Forbes](http://www.forbes.com/), I can read all the content that I want while using AdBlock.
 
-However, this has not stopped other sites from trying to enforce the disabling of AdBlock. For example, [Wired gives two options](https://www.wired.com/how-wired-is-going-to-handle-ad-blocking/), either add Wired to the AdBlock's whitelist or asking you to pay for the privilege of not seeing ads through a weekly subscription.
+However, this has not stopped other sites from trying to enforce the disabling of AdBlock. For example, [Wired gives two options](https://www.wired.com/how-wired-is-going-to-handle-ad-blocking/), either add Wired to the AdBlock's whitelist or pay for the privilege of not seeing ads through a weekly subscription.
 
 The whole _Disable AdBlock_ or _Pay Money_ decision is incredibly unappealing to me. Other sites have realized this and are taking different approaches. One such website is Narcity, who changes the option from _Pay Money_ to _Give Us Data_. So instead of disabling AdBlock, they simply ask you to sign up through Facebook. [This gives them data to your browsing experience](http://www.narcitymedia.com/blog/addressed-ad-blockers-happened/), and lets them customize your future experiences. I'm not a fan of this.
 

@@ -16,7 +16,7 @@ However, other websites are less tactful and simply lose visitors.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ll pass. Nice knowing you, <a href="https://twitter.com/Designmodo">@Designmodo</a>. What we had was beautiful. Alas... All good things come to an end. <a href="https://twitter.com/hashtag/adblock?src=hash">#adblock</a> <a href="https://twitter.com/hashtag/marketing?src=hash">#marketing</a> <a href="https://t.co/eJK1F4tkIh">pic.twitter.com/eJK1F4tkIh</a></p>&mdash; Ines Anić 🌐 (@i_anic) <a href="https://twitter.com/i_anic/status/788818055254122496">October 19, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> For the sake of readability, I'll refer to any ad blocking service as AdBlock because it's easier to read, and it's the service that I happen to use.
+> For the sake of readability, I will refer to any ad blocking service as AdBlock
 
 The thing about AdBlock is that it's no longer used _just for_ removing pesky ads from your peripheral vision. AdBlock also [deals with malware](http://www.makeuseof.com/tag/adblock-protect-browser-malware/) and turning it off can be dangerous.
 

@@ -5,6 +5,7 @@ destination: _site
 image: cn-tower.jpg
 permalink: /:title/
 markdown: kramdown
+highlighter: rouge
 sass:
   style: compressed
 social:

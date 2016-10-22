@@ -178,6 +178,9 @@ footer {
 }
 
 @media only screen and (max-width: 640px) {
+  p {
+    font-size: 1em;
+  }
   header {
     h1 {
       font-size: 3em;

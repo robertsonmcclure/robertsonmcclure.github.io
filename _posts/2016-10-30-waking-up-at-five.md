@@ -64,7 +64,7 @@ If you wake up early, but have nothing to do, it becomes really easy to not stic
 
 ### Music!
 
-Music in the morning just works really well. I love Youtube videos that are 3 hour mixes of a certain genre of songs. At first I listened to [Morning Guitar Instrumental Music](https://www.youtube.com/watch?v=GsrIZ1mnOvU) every morning, but since then I've moved on to [Relaxing Bossa Nova & Jazz Instrumental Music](https://www.youtube.com/watch?v=9Qv8ks7tyok). 
+Music in the morning just works really well. I love Youtube videos that are 3 hour mixes of a certain genre of songs. At first I listened to [Morning Guitar Instrumental Music](https://www.youtube.com/watch?v=GsrIZ1mnOvU) every morning, but since then I've moved on to [Relaxing Bossa Nova & Jazz Instrumental Music](https://www.youtube.com/watch?v=9Qv8ks7tyok).
 
 ### Coffee
 
@@ -72,7 +72,7 @@ Making coffee is a big part of my morning routine. I boil the water, grind the b
 
 ### Work Out
 
-There's nothing quite like working out first thing in the morning. You're stiff at first but once your blood gets pumping it's unbelievable. I've taken to doing sets of 20 pushups throughout my morning, usually culminating in completely roughly 140. The adrenaline, plus coffee, starts the day off incredibly right.
+There's nothing quite like working out first thing in the morning. You're stiff at first but once your blood gets pumping it's unbelievable. I've taken to doing sets of 20 pushups throughout my morning, usually culminating in finishing around 140. The adrenaline, plus coffee, starts the day off incredibly right.
 
 ## Is this for you?
 

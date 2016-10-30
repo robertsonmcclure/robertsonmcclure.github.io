@@ -64,7 +64,7 @@ If you wake up early, but have nothing to do, it becomes really easy to not stic
 
 ### Music!
 
-Music in the morning just works really well. I love Youtube videos that are 3 hour mixes of a certain genre of songs. At first I listened to [Morning Guitar Instrumental Music](https://www.youtube.com/watch?v=GsrIZ1mnOvU) every morning, but since then I've moved on to [Relaxing Bossa Nova & Jazz Instrumental Music](). 
+Music in the morning just works really well. I love Youtube videos that are 3 hour mixes of a certain genre of songs. At first I listened to [Morning Guitar Instrumental Music](https://www.youtube.com/watch?v=GsrIZ1mnOvU) every morning, but since then I've moved on to [Relaxing Bossa Nova & Jazz Instrumental Music](https://www.youtube.com/watch?v=9Qv8ks7tyok). 
 
 ### Coffee
 

@@ -1,21 +1,20 @@
-title: 'Robertson McClure'
-description: 'Robertson McClure is a student, software developer and volleyball coach.'
-url: 'http://robertsonmcclure.ca'
-destination: _site
-image: cn-tower.jpg
+title: Robertson McClure
+email: r.mcclure@mail.utoronto.ca
+description: Robertson McClure is a student, software developer and volleyball coach.
+about: Software Developer  Volleyball Coach
+logo: "/assets/images/logo.png"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://robertsonmcclure.ca" # the base hostname & protocol for your site
+
+name: 'Robertson McClure'
+bio: Robertson McClure is a student, software developer and volleyball coach.
+author_image: "/assets/images/author.jpg"
+
+twitter_username: robertsonmcclur
+github_username:  robertsonmcclure
+instagram_username: robertsonmcclure
+
 permalink: /:title/
 markdown: kramdown
-highlighter: rouge
-sass:
-  style: compressed
-social:
-  - account: fa-github
-    link: https://github.com/robertsonmcclure
-  - account: fa-twitter
-    link: https://twitter.com/robertsonmcclur
-  - account: fa-instagram
-    link: https://instagram.com/robertsonmcclure
-  - account: fa-linkedin
-    link: https://linkedin.com/in/robertsonmcclure
-collections:
-- projects
+kramdown:
+  parse_block_html: true

@@ -8,13 +8,11 @@ img: block-ads.jpg
 
 I love [AdBlock](https://getadblock.com/), advertisers do not. I just don't like ads, but websites do. Advertisements make money for sites so it makes sense that some have started to try and get their users to stop using services like AdBlock. Some sites do this in a nice way, and this works every now and then.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">That&#39;s the way you win the <a href="https://twitter.com/hashtag/trust?src=hash">#trust</a>. <a href="https://twitter.com/InfoQ">@InfoQ</a> has done a good job in convincing me and I have disabled <a href="https://twitter.com/hashtag/adblock?src=hash">#adblock</a> . <a href="https://twitter.com/hashtag/honesty?src=hash">#honesty</a> <a href="https://twitter.com/hashtag/respect?src=hash">#respect</a> <a href="https://twitter.com/hashtag/truth?src=hash">#truth</a> <a href="https://t.co/x8BXQ50JUr">pic.twitter.com/x8BXQ50JUr</a></p>&mdash; Sherry (@theprudentcode) <a href="https://twitter.com/theprudentcode/status/787893895271186432">October 17, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<amp-twitter width="486" height="657" data-tweetid="787893895271186432" layout="responsive"></amp-twitter>
 
 However, other websites are less tactful and simply lose visitors.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;ll pass. Nice knowing you, <a href="https://twitter.com/Designmodo">@Designmodo</a>. What we had was beautiful. Alas... All good things come to an end. <a href="https://twitter.com/hashtag/adblock?src=hash">#adblock</a> <a href="https://twitter.com/hashtag/marketing?src=hash">#marketing</a> <a href="https://t.co/eJK1F4tkIh">pic.twitter.com/eJK1F4tkIh</a></p>&mdash; Ines Anić 🌐 (@i_anic) <a href="https://twitter.com/i_anic/status/788818055254122496">October 19, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<amp-twitter width="486" height="657" data-tweetid="788818055254122496" layout="responsive"></amp-twitter>
 
 > For the sake of readability, I will refer to any ad blocking service as AdBlock
 
@@ -71,6 +69,7 @@ The website is back to normal! No whitelisting, payments or data needed.
 
 Check it out in action:
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/755IosqbMZ8" frameborder="0" allowfullscreen></iframe>
-</div>
+<amp-youtube
+    data-videoid="755IosqbMZ8"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>

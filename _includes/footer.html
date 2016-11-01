@@ -1,9 +1,7 @@
-<footer>
-  <ul>
-    {% for social in site.social %}
-    <li>
-      <a href="{{ social.link }}" target="_blank"><i class="fa {{ social.account }} fa-2x" aria-hidden="true"></i></a>
-    </li>
-    {% endfor %}
-  </ul>
+<footer class="site-footer">
+  <div class="footer-links">
+    {% include icons/twitter.html %}
+    {% include icons/github.html %}
+    {% include icons/instagram.html %}    
+  </div>
 </footer>

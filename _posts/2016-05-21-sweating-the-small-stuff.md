@@ -3,7 +3,6 @@ layout: post
 title:  "Sweating the Small Stuff"
 date:   2016-05-21
 tags: [ideas]
-excerpt: There are many different schools of thought on where to invest your energy.
 ---
 
 There are many different schools of thought on where to invest your energy. Some are convinced that you must look at the big picture, make 5 and 10 year plans and always be laying groundwork for potential future projects. They often warn against getting too caught up in the minutia. I've heard

@@ -3,7 +3,6 @@ layout: post
 title: The Social Media Slot Machine
 date: 2016-05-26T00:00:00.000Z
 tags: [personal]
-excerpt: Social media is a slot machine. It's emotionally addictive. Every time there's a notification, an impulse manifests to check it.
 ---
 
 Social media is a slot machine. It's emotionally addictive. Every time there's a notification, an impulse manifests to check it. To open it up and see if it's important. Every time there is a lull in our day, we open up our phones and refresh a social media application.

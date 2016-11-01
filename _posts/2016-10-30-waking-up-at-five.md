@@ -20,7 +20,7 @@ As I transitioned to being a coach, I moved my workouts to the morning because t
 
 There are more productive hours in a day. I've found that I'm able to accomplish more in the 16 hours that I'm awake. The difference is that instead of working from 10pm-2am, I work from 5am-9am. While working at night, there is no hard deadline to meet, you can always push back your sleep to get it done. In the morning, 9am is a hard deadline because of class/work. This puts more urgency on the work that I do and ensures that I never sacrifice my sleep.
 
-### No Distractions
+### Less Distractions
 
 Very few people are awake before 8am. This means that nobody will email or text you during this time, allowing you to fully focus on your work.
 

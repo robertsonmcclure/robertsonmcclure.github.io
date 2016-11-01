@@ -3,7 +3,6 @@ layout: post
 title: "A Quantum State of Expectation"
 date: 2016-04-15
 tags: [ideas]
-excerpt: With exam season in full swing at the University of Toronto, I thought I’d reflect on my attitude towards finals.
 ---
 
 With exam season in full swing at the University of Toronto, I thought I’d reflect on my attitude towards finals. Much like everything else in life, attitude and effort are the only things that one can control. This leads me to the question, what attitude do I have during exam season?

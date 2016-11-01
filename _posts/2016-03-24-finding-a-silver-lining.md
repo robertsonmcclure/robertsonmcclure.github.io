@@ -3,7 +3,6 @@ layout: post
 title: "Finding a Silver Lining"
 date: 2016-03-24
 tags: [personal]
-excerpt: Sometime between the hours of 7am and 8:30am on Tuesday March 22nd 2016, my iPhone 5S was stolen.
 ---
 
 Sometime between the hours of 7am and 8:30am on Tuesday March 22nd 2016, my iPhone 5S was stolen. I had just pulled an all nighter finishing a very complicated programming project and went to the gym to work out, as an attempt to “wake up”. This technique has worked quite well for me and is directly plagiarized from Casey Neistat, a YouTuber who functions on the assumption that you can exchange hours of sleep for hours of exercise.

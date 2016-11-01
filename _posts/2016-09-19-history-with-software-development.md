@@ -3,10 +3,7 @@ layout: post
 title: My History with Software Development
 date: 2016-09-19
 tags: [personal, technology]
-excerpt: How did I get here? I was first exposed to programming in the 10th grade. At first all we talked about was binary numbers and bitwise operations
 ---
-
-## High School
 
 I was first exposed to programming in Grade 10. We spent the first two months talking about binary and bitwise operations. When we eventually got into typing on keyboards, we used Java. Aside from writing a Fibonacci program and other introductory programming ideas, we were let loose on this neat project called Robot. In retrospect, Robot's purpose was to help us think programmatically, something that it definitely achieved. In essence, Robot created a virtual robot that we could see on a grid. Every square on the grid was either an empty `CELL` or filled in with a `WALL`. When we ran our program the grid would be loaded up and we were given the option to click on squares to toggle them between `WALL` and `CELL`. After we were satisfied with our configuration of the "room", we could click a button that would start the robot executing our file of commands. The Robot had a couple pretty simple commands that we could give it: `MOVE_FORWARD`, `MOVE_BACK` etc. It also had `CHECK_CELL` and `PAINT_CELL`. Every square on the grid could be blank, or it could be colored in. The Robot had the functionality to check if the cell was painted, or paint it in. In hindsight, I would call this the Robot's API, but I had no idea what that meant at the time. We were given some fun assignments that had to do with the Robot, such as paint every cell that I could get to. There were some interesting variations, like painting every cell but not being able to walk over any already painted cell. I had quite a lot of fun with Robot.
 

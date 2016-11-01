@@ -3,7 +3,6 @@ layout: post
 title: Coaches Can't Win Games
 date: 2016-09-21
 tags: [sport]
-excerpt: Who actually wins a game of volleyball? The athletes. Not the coaches. The athletes
 ---
 
 I have recently made the transition from athlete to coach, and it is hard. It is very hard. As an athlete, you can directly influence the outcomes of games. As an athlete you have the ability to create a positive impact, a neutral impact or a negative impact. As a coach, you cannot **directly** influence the outcome of the game. By no means am I postulating that a coach cannot have an affect on a match, however at the end of the day, the outcome is determined by the athletes on the court.

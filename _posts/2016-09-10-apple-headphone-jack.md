@@ -3,7 +3,6 @@ layout: post
 title: Checking in with Apple's Headphone Jack
 date: 2016-09-10
 tags: [technology]
-excerpt: Apple has decided to remove the headphone jack from the iPhone 7. While some are up in arms, other are applauding the move
 ---
 
 Nobody enjoys being wrong. As time marches steadily forward, we forget our old assertions about certain elements of life. We let some philosophies fall to the wayside as we embrace new and interesting ideas. However, this adoption gives rise to us forgetting some old thoughts, the beliefs that we once might have held dear. Today I was [challenged, indirectly, on twitter](https://twitter.com/tobi/status/774725548727820288), by Tobi Lütke to "Write down your current opinion about the headphone jack in some kind of journal. Revisit it in a year. You will grow as a person."

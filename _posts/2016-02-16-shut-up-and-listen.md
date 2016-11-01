@@ -3,7 +3,6 @@ layout: post
 title: "Shut Up and Listen"
 date: 2016-02-16
 tags: [ideas]
-excerpt: Time is speeding up. It’s an inevitable part of being human.
 ---
 
 Time is speeding up. It’s an inevitable part of being human. When you were five years old, each year lived was twenty percent of your life. Now that I’m twenty, each year that I’ve lived is five percent of my life. Each years means less and less in the grand scheme of things. Every moment is more and more fleeting, and routine creates a blur to which memories lose track of time.

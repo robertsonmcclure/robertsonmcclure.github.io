@@ -3,7 +3,6 @@ layout: post
 title: "I Love Atom"
 date: 2016-05-22T00:00:00.000Z
 tags: [technology]
-excerpt: Just last week I started working for StockRender, a start up based in Toronto.
 ---
 
 Just last week I started working for [StockRender][1], a start up based in Toronto. This is a big moment for me because it's the first time that I've been paid to write code. Part of me wishes that I could have started sooner, been involved more, attended Hackathons, committed daily on Github or anything really. However I'm glad I have the experiences that I've garnered over the years, and wouldn't change it even if I could. That being said, I am a bit behind the times when it comes to professionally developing.

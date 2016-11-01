@@ -3,7 +3,6 @@ layout: post
 title: SEO Achievement Unlocked
 date: 2016-07-01
 tags: [technology]
-excerpt: After a couple hours of work spread over a couple weeks, my personal website finally cracked the first page of Google's search result for "robertson mcclure"
 ---
 
 When I began writing blog posts in May of 2015, I wasn't planning on showing them to anyone. These were originally hosted on a [WordPress](https://wordpress.org/) site, but have since moved to [this website](http://robertsonmcclure.ca). I didn't tell my family about the blog I was writing for the first couple of months. Within a fortnight of my father finding out about [my old WordPress blog](https://robertsonmcclure.wordpress.com/), the entire extended family had seen it in one form or another. It was kept within the family, save for a friend of my grandfather's who left the following delightful comment on [one of my articles](http://robertsonmcclure.ca/shut-up-and-listen).

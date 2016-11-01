@@ -3,7 +3,6 @@ layout: post
 title: "Choose your own Adventure"
 date: 2016-03-10
 tags: [work]
-excerpt: Last night I had the pleasure of meeting with alumni from Victoria College at the University of Toronto. One of the alumnus told me that “The greatest force in life is inertia”.
 ---
 
 Last night I had the pleasure of meeting with alumni from Victoria College at the University of Toronto. One of the alumnus told me that “The greatest force in life is inertia”. Like most metaphors, an explanation is due. Everyone has a projected path that they are currently traversing. The path may be obvious, it may not be, but there is a path of least resistance in front of each of us. At every point in time we are given a choice, to stray from the path or hold true. The danger with staying on the path of least resistance is that it is generally created for us instead of by us. I will use the alumnus’ example of the manifestation of inertia in a career path. The following isn’t a direct quotation, my memory isn’t that good, but the overall idea holds.

@@ -22,6 +22,9 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{ site.twitter_username }}" />
   <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html  }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/images/{% if page.img %}blog/{{ page.img }}{% else %}{{ site.image }}{% endif %}" />
 
   <script type="application/ld+json">
   {% include metadata.json %}

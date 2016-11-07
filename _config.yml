@@ -1,19 +1,8 @@
 title: Robertson McClure
-email: r.mcclure@mail.utoronto.ca
 description: Robertson McClure is a student, software developer and volleyball coach.
-about: Software Developer  Volleyball Coach
-logo: "/assets/images/logo.jpg"
-url: "http://robertsonmcclure.ca" # the base hostname & protocol for your site
-
-name: 'Robertson McClure'
-bio: Robertson McClure is a student, software developer and volleyball coach.
-author_image: "/assets/images/author.jpg"
-
-twitter_username: robertsonmcclur
-github_username:  robertsonmcclure
-instagram_username: robertsonmcclure
-
 permalink: /:title/
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+social:
+  twitter: robertsonmcclur
+  github: robertsonmcclure
+  instagram: robertsonmcclure
+analytics: UA-79717942-1

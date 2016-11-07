@@ -1,7 +1,13 @@
-<footer class="site-footer">
-  <div class="footer-links">
-    {% include icons/twitter.html %}
-    {% include icons/github.html %}
-    {% include icons/instagram.html %}    
-  </div>
-</footer>
+<div class="gray-bar">
+  <footer>
+    <a href="https://twitter.com/{{ site.social.twitter }}" target="_blank">
+      {% include svg/twitter.svg %}
+    </a>
+    <a href="https://github.com/{{ site.social.github }}" target="_blank">
+      {% include svg/github.svg %}
+    </a>
+    <a href="https://instagram.com/{{ site.social.instagram }}" target="_blank">
+        {% include svg/instagram.svg %}
+    </a>
+  </footer>
+</div>

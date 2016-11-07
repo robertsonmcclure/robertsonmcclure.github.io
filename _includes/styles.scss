@@ -1,83 +1,16 @@
-@import 'bourbon/bourbon';
 @import 'syntax-highlighting';
 
 $grey-color: #828282;
 $logo: #2A93D5;
-
-.icon {
-  > svg {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    vertical-align: middle;
-    path {
-      fill: $grey-color;
-    }
-  }
-  padding: 0 7%;
-  &:hover {
-    path {
-      fill: $logo;
-    }
-  }
-}
-
-nav {
-  padding: 20px;
-  letter-spacing: 2px;
-  a {
-    color: #333;
-    font-size: 22px;
-    font-weight: 200;
-    float: right;
-    margin-left: 30px;
-    &:first-child {
-      float: left;
-      margin-left: 0;
-    }
-    &:hover {
-      color: $logo;
-    }
-  }
-}
-
-.footer-links {
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-a {
-  text-decoration: none;
-}
-
-.cf {
-  @include clearfix;
-}
-
-$rs: 16px;
-
-$roboto: Roboto, Arial, Helvetica, sans-serif;
 $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
 
-@mixin respond-to($breakpoint) {
-  @media only screen and (max-width: $breakpoint + px) {
-    @content;
-  }
-}
-
-// Only needed for syntax highlighting
-%vertical-rhythm {
-  margin-bottom: $rs;
-}
-
-main {
-  display: block;
-}
-
 body {
-  background-color: #fff;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #eee;
   font-family: $font-sans;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -89,235 +22,155 @@ body {
   font-feature-settings: "liga", "dlig";
 }
 
-.site-header {
-  position: relative;
-  width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
-  @include box-sizing(border-box);
-  @include respond-to(800) {
-    padding: $rs * 1;
-  }
-
-  .page-link {
-    display: inline-block;
-    float: left;
-    font-weight: 200;
-    font-style: normal;
-    font-size: 30px;
-    line-height: 30px;
-    margin: 0 10px;
-    text-decoration: none;
-    color: #000;
-    &:hover {
-      color: #333333;
-    }
-  }
-
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  text-align: center;
 }
 
-.blog-header {
+nav {
   width: 100%;
-  max-width: 700px;
-  margin: 0 auto;
-  position: relative;
-  padding: 0;
+  max-width: 800px;
+  margin: 20px auto;
   text-align: center;
-  @include box-sizing(border-box);
-  .blog-title {
-    margin-bottom: 8vh;
-    margin-top: 15vh;
-    font-size: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  a {
+    letter-spacing: 2px;
+    width: 25%;
+    flex: 1;
+    font-size: 25px;
     font-weight: 300;
-    letter-spacing: 3px;
-    outline: 0;
-    line-height: 50px;
-    word-break: break-word;
-    padding: 0 20px;
-    color: #333333;
   }
-  .blog-description {
-    font-size: 28px;
-    margin: 0 0 20px;
-    padding: 0;
-    line-height: 1.2;
-    color: #666666;
-    font-weight: 300;
-    letter-spacing: 1px;
+}
+
+main {
+  display: block;
+}
+
+footer {
+  width: 100%;
+  max-width: 800px;
+  margin: 10px auto;
+  text-align: center;
+  a {
+    width: 25%;
+    display: inline-block;
+    > svg {
+      width: 50px;
+      height: 50px;
+      vertical-align: middle;
+      path {
+        fill: $grey-color;
+      }
+    }
+    &:hover {
+      path {
+        fill: $logo;
+      }
+    }
   }
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 
 .content {
+  flex: 1;
   width: 100%;
-  max-width: 700px;
-  margin: 25px auto 0 auto;
-  @include box-sizing(border-box);
-  @include respond-to(800) {
-    padding: 0 $rs * 1;
-  }
-
-  article {
-    padding: 40px 0 20px;
-    border-top: 1px solid #f2f2f0;
-    .post-title {
-      text-align: center;
-      letter-spacing: 2px;
-      font-weight: 300;
-      display: block;
-      font-size: 36px;
-      line-height: 1.15;
-      margin: 0 0;
-      a {
-        text-decoration: none;
-        color: #333;
-        &:hover {
-          text-decoration: none;
-          color: $logo;
-        }
-      }
-    }
-    .post-excerpt {
-      font-family: $roboto;
-      text-align: center;
-      letter-spacing: 1px;
-      font-weight: 300;
-      font-style: normal;
-      font-size: 20px;
-      line-height: 1.59;
-      color: #666665;
-    }
-    .post-meta {
-      text-align: center;
-      font-size: 16px;
-      color: #b3b3b1;
-      line-height: 30px;
-      font-weight: 400;
-    }
-  }
+  max-width: 800px;
+  margin: 0 auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.post-template .content {
-  max-width: 700px;
+.gray-bar {
+  background-color: lighten($logo, 40);
 }
 
-.index-headline {
-  border-top: 1px solid #dededc;
-  margin: 0;
-  padding: 16px 0;
-  span {
-    color: #b3b3b1;
-    font-size: $rs / 8 * 5;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-}
-
-.pagination {
+.blog-title {
   text-align: center;
-  padding: $rs * 1 0 0;
-  font-size: $rs / 4 * 3;
+  font-size: 60px;
+  font-weight: 300;
+  letter-spacing: 5px;
+  word-break: break-word;
+  color: #333333;
+}
+
+article {
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  time {
+    letter-spacing: 2px;
+  }
+}
+
+.blog-post {
+  header {
+    margin: 15px 0;
+    padding-bottom: 15px;
+    border-bottom: 0.2px solid #666;
+  }
+  h2 {
+    font-size: 40px;
+    margin-bottom: 5px;
+    margin: 0;
+    letter-spacing: 3px;
+  }
   a {
-    color: #999999;
-    text-decoration: none;
+    display: block;
+    padding: 15px;
+    border: 1px solid white;
     &:hover {
-      color: #333333;
+      border: 1px solid $logo;
     }
   }
-}
-
-.site-footer {
-  padding: $rs * 3 0;
-  width: 100%;
-  font-size: $rs / 4 * 3;
-  text-align: center;
-  color: #999999;
-  line-height: $rs * 1.1;
-  a {
-    width: 25%;
+  p {
+    font-size: 20px;
+    letter-spacing: 2px;
   }
 }
 
 .post {
-  .post-meta {
-    font-family: $font-sans;
+  padding: 20px;
+  h1 {
+    font-size: 35px;
+    margin-bottom: 5px;
   }
-  .post-title {
+  h2 {
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 5px;
+    letter-spacing: 3px;
+  }
+  h3 {
+    font-size: 25px;
+    margin: 10px 0;
+  }
+  blockquote {
+    background-color: lighten($logo, 40);
+    border: 1px solid lighten($logo, 30);
+    padding: 20px;
+    margin: 5px;
+    p {
+      padding: 0;
+      margin: 0;
+    }
+  }
+  .post-content {
+    text-align: left;
     font-weight: 300;
     font-style: normal;
-    letter-spacing: -0.04em;
-    font-size: 50px;
-    line-height: 1.1;
-    color: #333332;
-    margin-bottom: 50px;
-  }
-  .author-image {
-    background-image: url({{ site.baseurl }}{{site.author_image}});
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    margin-right: 8px;
-    margin-bottom: -10px;
-    float: left;
-    background-size: cover;
-    border-radius: 100%;
-    text-indent: -9999px;
-  }
-  .post-meta-text {
-    color: #b3b3b1;
-    letter-spacing: -0.02em;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 14px;
-    overflow: hidden;
-    font-family: $font-sans;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
-
-  .post-content {
-    width: 100%;
-    font-family: $roboto;
-    color: #333333;
-    h1, h2, h3, h4, h5, h6 {
-      text-align: center;
-      letter-spacing: 2px;
-      font-weight: 300;
-      font-style: normal;
-      font-size: 24px;
-      line-height: 1.3;
-      margin-top: 50px;
-      margin-bottom: 0px;
-      font-family: $font-sans;
-    }
-    h3 {
-      font-size: 36px;
-    }
-    h2, h1 {
-      font-size: 42px;
-      line-height: 1.2;
-    }
-    table {
-      border-collapse: collapse;
-    }
-    table, th, td {
-      border: 1px solid black;
-      padding: 5px;
-      text-align:left;
-    }
-    p {
-      font-weight: 400;
-      font-style: normal;
-      font-size: 22px;
-      line-height: 1.59;
-      letter-spacing: -.002em;
-      margin-top: 30px;
-      margin-bottom: 0;
-      color: #333333;
-      -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-      hyphens: auto;
-    }
+    font-size: 20px;
+    line-height: 1.59;
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: #111;
     a {
       color: #333333;
       border-bottom: 4px solid lighten($logo, 30);
@@ -325,76 +178,8 @@ body {
         background-color: lighten($logo, 30);
       }
     }
-    amp-img, amp-youtube {
-      margin-top: 30px;
-    }
-    figure {
-      margin: 0;
-      padding: 0 0 30px;
-    }
-    figcaption {
-      font-weight: 400;
-      font-style: italic;
-      font-size: 16px;
-      line-height: 1.3;
-      color: #666665;
-      outline: 0;
-      z-index: 300;
-      text-align: center;
-    }
-    hr {
-      border: 0;
-      padding: 0;
-      display: block;
-      width: 15%;
-      margin: 30px auto;
-      border: 0px solid #dddddd;
-      border-top: 1px solid #dddddd;
-    }
-    blockquote {
-      background-color: lighten($logo, 40);
-      border: 1px solid lighten($logo, 30);
-      padding: 20px;
-      p {
-        padding: 0;
-        margin: 0;
-      }
-    }
-    ul, ol {
-      padding: 0 0 30px;
-      margin: 0;
-    }
-    li {
-      padding: 0;
-      font-weight: 400;
-      font-style: normal;
-      font-size: 23px;
-      line-height: 30px;
-      margin-left: 30px;
-      margin-bottom: 12px;
-      padding-top: 2px;
-      p {
-        padding: 0 0 golden-ratio(1rem, 1);
-      }
-    }
-    ol li {
-      list-style-type: decimal;
-    }
-  }
-}
-
-.share {
-  text-align: right;
-  padding: 20px 0 0;
-  a {
-    text-decoration: none;
-    color: #bbbbbb;
-    padding-left: 12px;
-    .hidden {
-      display: none;
-    }
-    &:hover {
-      color: #333333;
+    ol, ul {
+      list-style-type: circle;
     }
   }
 }
@@ -402,6 +187,7 @@ body {
 
 pre,
 code {
+  letter-spacing: 0;
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
@@ -422,6 +208,18 @@ pre {
   }
 }
 
-.pagination .disabled {
-    opacity: 0;
+#about {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  font-size: 25px;
+  line-height: 1.5;
+  letter-spacing: 2px;
+  a {
+    color: #333333;
+    border-bottom: 4px solid lighten($logo, 30);
+    &:hover {
+      background-color: lighten($logo, 30);
+    }
+  }
 }

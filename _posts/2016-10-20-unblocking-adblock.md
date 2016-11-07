@@ -8,11 +8,11 @@ img: block-ads.jpg
 
 I love [AdBlock](https://getadblock.com/), advertisers do not. I just don't like ads, but websites do. Advertisements make money for sites so it makes sense that some have started to try and get their users to stop using services like AdBlock. Some sites do this in a nice way, and this works every now and then.
 
-<amp-twitter width="486" height="657" data-tweetid="787893895271186432" layout="responsive"></amp-twitter>
+<amp-twitter width="100" height="100" data-tweetid="787893895271186432" layout="responsive"></amp-twitter>
 
 However, other websites are less tactful and simply lose visitors.
 
-<amp-twitter width="486" height="657" data-tweetid="788818055254122496" layout="responsive"></amp-twitter>
+<amp-twitter width="100" height="100" data-tweetid="788818055254122496" layout="responsive"></amp-twitter>
 
 > For the sake of readability, I will refer to any ad blocking service as AdBlock
 

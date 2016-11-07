@@ -2,8 +2,11 @@
 <html ⚡ lang="en">
   {% include head.html %}
   <body>
-    {% include header.html %}
-    {{ content }}
+    {% include navigation.html %}
+    <main class="content" role="main">
+      {{ content }}
+    </main>
     {% include footer.html %}
+    {% include analytics.html %}
   </body>
 </html>

@@ -11,11 +11,7 @@ I decided to continue with computer science and take the follow up course the ne
 
 ## First Year
 
-Coding was completely absent from my final year of High School, I knew that I loved Math and Volleyball so I spent all my time doing that. I came to UofT and promptly enrolled myself in the Math Specialist Program and made it onto the Varsity Volleyball Team, everything was going to plan. I enjoy being well rounded so I also took a philosophy course and economics course. Half way through first semester, I realized that economics was **not** for me. Yes I was really good with working with numbers, but this was not that. I made the decision to drop this year long course because staying in it would probably result in my failing, going crazy or both. I now had a spot to fill in my second semester, so I scoured the UofT website looking for a course to fill this gap. I was scrolling through the list of Departments on this beautiful website, that UofT provides to its students to help them pick courses,
-
-![Department List]({{ site.url }}/images/uoft-timetable.png)
-
-when `Computer Science [CSC courses]` caught my eye.
+Coding was completely absent from my final year of High School, I knew that I loved Math and Volleyball so I spent all my time doing that. I came to UofT and promptly enrolled myself in the Math Specialist Program and made it onto the Varsity Volleyball Team, everything was going to plan. I enjoy being well rounded so I also took a philosophy course and economics course. Half way through first semester, I realized that economics was **not** for me. Yes I was really good with working with numbers, but this was not that. I made the decision to drop this year long course because staying in it would probably result in my failing, going crazy or both. I now had a spot to fill in my second semester, so I scoured the UofT website looking for a course to fill this gap, when `Computer Science [CSC courses]` caught my eye.
 
 The course was `CSC148: Introduction to Computer Science`. The course description wasn't exactly riveting, but I had fond memories from High School so I decided to give it a whirl.
 

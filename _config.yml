@@ -1,5 +1,6 @@
 title: Robertson McClure
-description: Robertson McClure is a student, software developer and volleyball coach.
+description: >
+  | Robertson McClure is a student, software developer and volleyball coach. He writes about what'
 permalink: /:title/
 social:
   twitter: robertsonmcclur

@@ -1,6 +1,10 @@
 <div class="gray-bar">
   <nav>
-    <a href="{{ '/' | absolute_url }}">About</a>
-    <a href="{{ '/blog' | absolute_url }}">Writing</a>
+    <a href="{{ '/' | absolute_url }}" class="{% if page.layout == 'home' %}active{% endif %}">
+      <span>About</span>
+    </a>
+    <a href="{{ '/blog' | absolute_url }}" class="{% if page.layout == 'blog' %}active{% endif %}">
+      <span>Writing</span>
+    </a>
   </nav>
 </div>

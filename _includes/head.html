@@ -10,7 +10,7 @@
   <meta name="google-site-verification" content="3pWyJkS8ZNmnq8LbMqrnLFUgc7n54IaitxS105gNa6Q" />
 
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-
+  <meta name="description" content="{{ site.description }}" />
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   <meta property="og:title" content="{{ page.title }}" />
@@ -25,6 +25,10 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html  }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{% if page.img %}{{ site.url }}/assets/blog/{{ page.img }}{% else %}{{ site.logo | prepend: site.url }}{% endif %}" />
+
+  <script type="application/ld+json">
+    {% include metadata.json %}
+  </script>
 
   <style amp-custom>
   {% capture include_to_scssify %}

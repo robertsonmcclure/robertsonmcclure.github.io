@@ -8,7 +8,6 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  background-color: #eee;
   font-family: $font-sans;
   font-weight: 300;
   margin: 0;
@@ -132,6 +131,60 @@ article {
   p {
     font-size: 20px;
     letter-spacing: 2px;
+  }
+}
+
+.project {
+  display: flex;
+  @media screen and (max-width: 740px) {
+    flex-direction: column;
+  }
+  flex-direction: row;
+  padding: 15px;
+  border-bottom: 1px solid $grey-color;
+  header {
+    margin: 15px 0;
+    padding-bottom: 15px;
+    a {
+      padding: 0 10px;
+    }
+  }
+  h2 {
+    font-size: 2.5em;
+    @media screen and (max-width: 740px) {
+      font-size: 1.5em;
+    }
+    margin-bottom: 5px;
+    margin: 0;
+    letter-spacing: 3px;
+  }
+  .project-body {
+    a {
+      color: #333333;
+      border-bottom: 4px solid lighten($logo, 30);
+      &:hover {
+        background-color: lighten($logo, 30);
+      }
+    }
+  }
+  > a {
+    padding: 5px;
+    border: 1px solid white;
+    &:hover {
+      border: 1px solid $logo;
+    }
+  }
+  p {
+    line-height: 32px;
+    font-size: 20px;
+    letter-spacing: 2px;
+  }
+  div {
+    margin-left: 40px;
+    @media screen and (max-width: 740px) {
+      margin-left: 0;
+    }
+    flex: 1 1 0%;
   }
 }
 

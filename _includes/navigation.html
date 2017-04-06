@@ -3,6 +3,9 @@
     <a href="{{ '/' | absolute_url }}" class="{% if page.layout == 'home' %}active{% endif %}">
       <span>About</span>
     </a>
+    <a href="{{ '/projects' | absolute_url }}" class="{% if page.layout == 'projects' %}active{% endif %}">
+      <span>Projects</span>
+    </a>
     <a href="{{ '/blog' | absolute_url }}" class="{% if page.layout == 'blog' %}active{% endif %}">
       <span>Writing</span>
     </a>

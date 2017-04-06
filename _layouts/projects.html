@@ -1,0 +1,24 @@
+---
+layout: default
+title: Projects
+---
+{% assign sorted = (site.projects | sort: 'order') %}
+{% for project in sorted %}
+<article class="project">
+  <a href="{{ project.link }}" itemprop="url">
+    <amp-img src="{{ project.image }}" width=250 height=250></amp-img>
+  </a>
+  <div class="project-body">
+    <header>
+      <h2 itemprop="name">
+        <a href="{{ project.link }}" itemprop="url">
+          {{ project.title }}
+        </a>
+      </h2>
+    </header>
+    <section>
+      <p>{{ project.content }}</p>
+    </section>
+  </div>
+</article>
+{% endfor %}

@@ -1,0 +1,113 @@
+- title: Grit
+  image: /images/books/grit.jpg
+  width: 331
+  height: 500
+  complete: false
+
+- title: Thinking Fast and Slow
+  image: /images/books/fast_and_slow.jpg
+  width: 318
+  height: 469
+  complete: false
+
+- title: The Happiness Equation
+  image: /images/books/happy.jpg
+  width: 331
+  height: 499
+  complete: false
+
+- title: Man's Search For Meaning
+  image: /images/books/mans_search_for_meaning.jpg
+  width: 210
+  height: 320
+  complete: true
+
+- title: The Signal and The Noise
+  image: /images/books/the_signal_and_the_noise.jpg
+  width: 326
+  height: 499
+  complete: true
+
+- title: Quiet
+  image: /images/books/quiet.jpg
+  width: 220
+  height: 334
+  complete: true
+
+- title: Creative Inc.
+  image: /images/books/creative_inc.jpg
+  width: 329
+  height: 500
+  complete: true
+
+- title: A Short History of Nearly Everything
+  image: /images/books/short_history.jpg
+  width: 304
+  height: 475
+  complete: true
+
+- title: How We Decide
+  image: /images/books/how_we_decide.jpg
+  width: 332
+  height: 500
+  complete: true
+
+- title: 1984
+  image: /images/books/1984.jpg
+  width: 307
+  height: 499
+  complete: true
+
+- title: A Prayer for Owen Meany
+  image: /images/books/owen_meany.jpg
+  width: 267
+  height: 400
+  complete: true
+
+- title: The Undoing Project
+  image: /images/books/undoing.jpg
+  width: 329
+  height: 499
+  complete: true
+
+- title: The Subtle Art Of Not Giving A Fuck
+  image: /images/books/subtle_art.jpg
+  width: 267
+  height: 400
+  complete: true
+
+- title: Zero to One
+  image: /images/books/zero_to_one.jpg
+  width: 1673
+  height: 2543
+  complete: true
+
+- title: Algorithms to Live By
+  image: /images/books/algorithms.jpg
+  width: 230
+  height: 346
+  complete: true
+
+- title: Make It Stick
+  image: /images/books/make_it_stick.jpg
+  width: 329
+  height: 499
+  complete: true
+
+- title: Naked Money
+  image: /images/books/naked_money.jpg
+  width: 330
+  height: 499
+  complete: true
+
+- title: Smarter Faster Better
+  image: /images/books/smarter_faster.jpg
+  width: 329
+  height: 499
+  complete: true
+
+- title: The Power of Habit
+  image: /images/books/habit.jpeg
+  width: 292
+  height: 450
+  complete: true

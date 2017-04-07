@@ -2,6 +2,7 @@
 
 $grey-color: #828282;
 $logo: #2A93D5;
+$counter-logo: #D52A93;
 $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
 
 body {
@@ -14,11 +15,6 @@ body {
   padding: 0;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-font-feature-settings: "liga=1, dlig=1";
-  -ms-font-feature-settings: "liga", "dlig";
-  -webkit-font-feature-settings: "liga", "dlig";
-  -o-font-feature-settings: "liga", "dlig";
-  font-feature-settings: "liga", "dlig";
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -282,4 +278,37 @@ pre {
     padding: 5px 10px;
     border-bottom: 3px solid $logo;
   }
+}
+
+.book {
+  padding: 1px;
+  width: 30%;
+  margin: 1%;
+  display: inline-block;
+}
+
+.book-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+@media all and (max-width: 500px) {
+  .large{display:none;}
+  .small{display:content;}
+}
+
+@media all and (min-width: 500px) {
+  .large{display:content;}
+  .small{display:none;}
+}
+
+.menu {
+  color: #333;
+  float:right;
+  font-size:46px;
+  margin-right:16px;
 }

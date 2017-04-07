@@ -1,5 +1,5 @@
 <div class="gray-bar">
-  <nav>
+  <nav class="large">
     <a href="{{ '/' | absolute_url }}" class="{% if page.layout == 'home' %}active{% endif %}">
       <span>About</span>
     </a>
@@ -9,5 +9,55 @@
     <a href="{{ '/blog' | absolute_url }}" class="{% if page.layout == 'blog' %}active{% endif %}">
       <span>Writing</span>
     </a>
+    <a href="{{ '/library' | absolute_url }}" class="{% if page.layout == 'library' %}active{% endif %}">
+      <span>Reading</span>
+    </a>
   </nav>
+  <button on="tap:sidebar.toggle" class="ampstart-btn caps m2 small menu">&#9776;</button>
 </div>
+<amp-sidebar id="sidebar"
+  layout="nodisplay"
+  side="left">
+  <ul style="list-style-type:none;padding-left:0;">
+    <li style="padding:15px;">
+      <amp-fit-text width="400"
+        height="20"
+        layout="responsive"
+        max-font-size="48">
+        <a href="{{ '/' | absolute_url }}">
+          <span style="padding:20px;font-size:30px;">About</span>
+        </a>
+      </amp-fit-text>
+    </li>
+    <li style="padding:15px;">
+      <amp-fit-text width="400"
+        height="20"
+        layout="responsive"
+        max-font-size="48">
+        <a href="{{ '/projects' | absolute_url }}">
+          <span style="padding:20px;font-size:30px;">Projects</span>
+        </a>
+      </amp-fit-text>
+    </li>
+    <li style="padding:15px;">
+      <amp-fit-text width="400"
+        height="20"
+        layout="responsive"
+        max-font-size="48">
+        <a href="{{ '/blog' | absolute_url }}">
+          <span style="padding:20px;font-size:30px;">Writing</span>
+        </a>
+      </amp-fit-text>
+    </li>
+    <li style="padding:15px;">
+      <amp-fit-text width="400"
+        height="20"
+        layout="responsive"
+        max-font-size="48">
+        <a href="{{ '/library' | absolute_url }}">
+          <span style="padding:20px;font-size:30px;">Reading</span>
+        </a>
+      </amp-fit-text>
+    </li>
+  </ul>
+</amp-sidebar>

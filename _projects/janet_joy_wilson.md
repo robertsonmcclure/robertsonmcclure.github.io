@@ -1,5 +1,5 @@
 ---
-title: JanetJoyWilson.ca
+title: Janet Joy Wilson
 link: http://janetjoywilson.ca/
 image: /images/janet_joy_wilson.png
 order: 3

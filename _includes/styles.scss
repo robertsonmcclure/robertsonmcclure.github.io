@@ -185,7 +185,6 @@ article {
 }
 
 .post {
-  padding: 20px;
   h1 {
     font-size: 35px;
     margin-bottom: 5px;
@@ -237,10 +236,13 @@ article {
 pre,
 code {
   letter-spacing: 0;
-  font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eeeeff;
+}
+
+code, pre, samp {
+  white-space: pre-wrap;
 }
 
 code {
@@ -304,6 +306,14 @@ pre {
 @media all and (min-width: 500px) {
   .large{display:content;}
   .small{display:none;}
+}
+
+@media all and (max-width: 600px) {
+  pre,code{font-size:10px;}
+}
+
+@media all and (min-width: 600px) {
+  pre,code{font-size:15px;}
 }
 
 .menu {

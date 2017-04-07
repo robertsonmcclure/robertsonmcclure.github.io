@@ -1,7 +1,7 @@
 ---
 title: "Howu"
 link: https://howu.herokuapp.com/
-image: /images/howu.png
+image: howu.png
 order: 4
 ---
 

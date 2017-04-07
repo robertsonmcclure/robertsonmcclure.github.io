@@ -1,7 +1,7 @@
 ---
 title: This Website
 link: http://robertsonmcclure.ca/
-image: /images/robertson_mcclure.jpg
+image: robertson_mcclure.jpg
 order: 5
 ---
 

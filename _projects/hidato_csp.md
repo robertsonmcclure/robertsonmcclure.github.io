@@ -1,7 +1,7 @@
 ---
 title: Hidato CSP
 link: https://github.com/robertsonmcclure/hidato-csp/
-image: /images/hidato_csp.png
+image: hidato_csp.png
 order: 2
 ---
 

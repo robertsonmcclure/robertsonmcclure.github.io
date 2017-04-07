@@ -6,7 +6,7 @@ title: Projects
 {% for project in sorted %}
 <article class="project" itemscope itemtype="http://schema.org/ListItem">
   <a href="{{ project.link }}" itemprop="url">
-    <amp-img src="{{ project.image }}" width=250 height=250></amp-img>
+    <amp-img src="/images/projects/{{ project.image }}" width=250 height=250></amp-img>
   </a>
   <div class="project-body">
     <header>

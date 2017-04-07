@@ -1,7 +1,7 @@
 ---
 title: Doctor Volleyball
 link: https://doctorvolleyball.com
-image: /images/doctor_volleyball.png
+image: doctor_volleyball.png
 order: 1
 ---
 

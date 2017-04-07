@@ -1,7 +1,7 @@
 ---
 title: The Reading Line
 link: http://thereadingline.ca/
-image: /images/the_reading_line.png
+image: the_reading_line.png
 order: 1
 ---
 

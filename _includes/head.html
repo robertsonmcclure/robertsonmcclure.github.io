@@ -25,7 +25,7 @@
   <meta name="twitter:creator" content="@{{ site.social.twitter }}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html  }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.img %}{{ site.url }}/assets/blog/{{ page.img }}{% else %}{{ site.logo | prepend: site.url }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.img %}{{ site.url }}/images/blog/{{ page.img }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}" />
 
   <script type="application/ld+json">
     {% include metadata.json %}

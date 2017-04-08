@@ -14,7 +14,7 @@
   image: /images/books/happy.jpg
   width: 331
   height: 499
-  complete: false
+  complete: true
 
 - title: Man's Search For Meaning
   image: /images/books/mans_search_for_meaning.jpg

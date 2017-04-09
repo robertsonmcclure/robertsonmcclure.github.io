@@ -10,6 +10,12 @@
   height: 469
   complete: false
 
+- title: The Evenings
+  image: /images/books/the_evenings.jpg
+  width: 278
+  height: 427
+  complete: false
+
 - title: The Happiness Equation
   image: /images/books/happy.jpg
   width: 331

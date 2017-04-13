@@ -16,6 +16,12 @@
   height: 427
   complete: false
 
+- title: The Handmaid's Tale
+  image: /images/books/handmaids_tale.jpg
+  width: 500
+  height: 784
+  complete: false
+
 - title: The Happiness Equation
   image: /images/books/happy.jpg
   width: 331

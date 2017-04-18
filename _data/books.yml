@@ -1,9 +1,3 @@
-- title: Grit
-  image: /images/books/grit.jpg
-  width: 331
-  height: 500
-  complete: false
-
 - title: Thinking Fast and Slow
   image: /images/books/fast_and_slow.jpg
   width: 318
@@ -27,6 +21,12 @@
   width: 313
   height: 499
   complete: false
+
+- title: Grit
+  image: /images/books/grit.jpg
+  width: 331
+  height: 500
+  complete: true
 
 - title: The Happiness Equation
   image: /images/books/happy.jpg

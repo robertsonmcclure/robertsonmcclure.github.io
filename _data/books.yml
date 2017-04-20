@@ -1,7 +1,7 @@
-- title: Thinking Fast and Slow
-  image: /images/books/fast_and_slow.jpg
-  width: 318
-  height: 469
+- title: Head Strong
+  image: /images/books/headstrong.jpg
+  width: 2144
+  height: 3237
   complete: false
 
 - title: The Evenings
@@ -10,17 +10,23 @@
   height: 427
   complete: false
 
-- title: The Handmaid's Tale
-  image: /images/books/handmaids_tale.jpg
-  width: 500
-  height: 784
-  complete: false
-
 - title: Rework
   image: /images/books/rework.jpg
   width: 313
   height: 499
   complete: false
+
+- title: The Handmaid's Tale
+  image: /images/books/handmaids_tale.jpg
+  width: 500
+  height: 784
+  complete: true
+
+- title: Kitten Clone
+  image: /images/books/kitten_clone.jpg
+  width: 220
+  height: 342
+  complete: true
 
 - title: Grit
   image: /images/books/grit.jpg

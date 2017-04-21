@@ -14,7 +14,7 @@
   image: /images/books/rework.jpg
   width: 313
   height: 499
-  complete: false
+  complete: true
 
 - title: The Handmaid's Tale
   image: /images/books/handmaids_tale.jpg

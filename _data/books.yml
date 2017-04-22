@@ -20,7 +20,7 @@
   image: /images/books/unplug.jpg
   width: 351
   height: 499
-  complete: false
+  complete: true
 
 - title: Rework
   image: /images/books/rework.jpg

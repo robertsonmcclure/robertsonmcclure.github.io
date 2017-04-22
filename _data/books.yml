@@ -1,3 +1,9 @@
+- title: The Talent Code
+  image: /images/books/talent_code.jpg
+  width: 200
+  height: 303
+  complete: false
+
 - title: Head Strong
   image: /images/books/headstrong.jpg
   width: 2144
@@ -46,6 +52,24 @@
   height: 320
   complete: true
 
+- title: Outliers
+  image: /images/books/outliers.jpg
+  width: 329
+  height: 500
+  complete: true
+
+- title: The Tipping Point
+  image: /images/books/tipping_point.jpg
+  width: 333
+  height: 499
+  complete: true
+
+- title: What the Dog Saw
+  image: /images/books/what_the_dog_saw.jpg
+  width: 295
+  height: 475
+  complete: true
+
 - title: The Signal and The Noise
   image: /images/books/the_signal_and_the_noise.jpg
   width: 326
@@ -70,6 +94,12 @@
   height: 475
   complete: true
 
+- title: A Walk In The Woods
+  image: /images/books/walk_in_the_woods.jpg
+  width: 324
+  height: 499
+  complete: true
+
 - title: How We Decide
   image: /images/books/how_we_decide.jpg
   width: 332
@@ -82,10 +112,28 @@
   height: 499
   complete: true
 
+- title: Animal Farm
+  image: /images/books/animal_farm.jpg
+  width: 400
+  height: 654
+  complete: true
+
+- title: Fahreinheit 451
+  image: /images/books/451.jpg
+  width: 296
+  height: 475
+  complete: true
+
 - title: A Prayer for Owen Meany
   image: /images/books/owen_meany.jpg
   width: 267
   height: 400
+  complete: true
+
+- title: The World According to Garp
+  image: /images/books/garp.jpg
+  width: 305
+  height: 475
   complete: true
 
 - title: The Undoing Project
@@ -134,4 +182,16 @@
   image: /images/books/habit.jpeg
   width: 292
   height: 450
+  complete: true
+
+- title: The Book Thief
+  image: /images/books/the_book_thief.jpg
+  width: 331
+  height: 500
+  complete: true
+
+- title: I Am The Messenger
+  image: /images/books/messenger.jpg
+  width: 653
+  height: 1024
   complete: true

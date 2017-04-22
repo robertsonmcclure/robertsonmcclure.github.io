@@ -325,3 +325,16 @@ pre {
   border: none;
   padding: 0;
 }
+
+#sidebar {
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    li {
+      padding: 15px;
+      a {
+        font-size: 30px;
+      }
+    }
+  }
+}

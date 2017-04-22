@@ -18,46 +18,10 @@
 <amp-sidebar id="sidebar"
   layout="nodisplay"
   side="left">
-  <ul style="list-style-type:none;padding-left:0;">
-    <li style="padding:15px;">
-      <amp-fit-text width="400"
-        height="20"
-        layout="responsive"
-        max-font-size="48">
-        <a href="{{ '/' | absolute_url }}">
-          <span style="padding:20px;font-size:30px;">About</span>
-        </a>
-      </amp-fit-text>
-    </li>
-    <li style="padding:15px;">
-      <amp-fit-text width="400"
-        height="20"
-        layout="responsive"
-        max-font-size="48">
-        <a href="{{ '/projects' | absolute_url }}">
-          <span style="padding:20px;font-size:30px;">Projects</span>
-        </a>
-      </amp-fit-text>
-    </li>
-    <li style="padding:15px;">
-      <amp-fit-text width="400"
-        height="20"
-        layout="responsive"
-        max-font-size="48">
-        <a href="{{ '/blog' | absolute_url }}">
-          <span style="padding:20px;font-size:30px;">Writing</span>
-        </a>
-      </amp-fit-text>
-    </li>
-    <li style="padding:15px;">
-      <amp-fit-text width="400"
-        height="20"
-        layout="responsive"
-        max-font-size="48">
-        <a href="{{ '/library' | absolute_url }}">
-          <span style="padding:20px;font-size:30px;">Reading</span>
-        </a>
-      </amp-fit-text>
-    </li>
+  <ul>
+    <li><a href="{{ '/' | absolute_url }}">About</a></li>
+    <li><a href="{{ '/projects' | absolute_url }}">Projects</a></li>
+    <li><a href="{{ '/blog' | absolute_url }}">Writing</a></li>
+    <li><a href="{{ '/library' | absolute_url }}">Reading</a></li>
   </ul>
 </amp-sidebar>

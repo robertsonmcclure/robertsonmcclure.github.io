@@ -16,6 +16,12 @@
   height: 427
   complete: false
 
+- title: Unplug
+  image: /images/books/unplug.jpg
+  width: 351
+  height: 499
+  complete: false
+
 - title: Rework
   image: /images/books/rework.jpg
   width: 313

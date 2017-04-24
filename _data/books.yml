@@ -16,6 +16,18 @@
   height: 427
   complete: false
 
+- title: Remote
+  image: /images/books/remote.png
+  width: 530
+  height: 800
+  complete: false
+
+- title: The Circle
+  image: /images/books/circle.jpg
+  width: 326
+  height: 499
+  complete: false
+
 - title: Unplug
   image: /images/books/unplug.jpg
   width: 351

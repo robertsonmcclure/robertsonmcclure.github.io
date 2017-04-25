@@ -28,6 +28,12 @@
   height: 499
   complete: false
 
+- title: Zen and the Art of Motorcycle Maintainence
+  image: /images/books/zen_motorcycle.jpg
+  width: 309
+  height: 499
+  complete: true
+
 - title: Unplug
   image: /images/books/unplug.jpg
   width: 351

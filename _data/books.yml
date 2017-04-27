@@ -16,17 +16,17 @@
   height: 427
   complete: false
 
-- title: Remote
-  image: /images/books/remote.png
-  width: 530
-  height: 800
-  complete: false
-
 - title: The Circle
   image: /images/books/circle.jpg
   width: 326
   height: 499
   complete: false
+
+- title: Remote
+  image: /images/books/remote.png
+  width: 530
+  height: 800
+  complete: true
 
 - title: Zen and the Art of Motorcycle Maintainence
   image: /images/books/zen_motorcycle.jpg

@@ -20,7 +20,7 @@
   image: /images/books/circle.jpg
   width: 326
   height: 499
-  complete: false
+  complete: true
 
 - title: Remote
   image: /images/books/remote.png

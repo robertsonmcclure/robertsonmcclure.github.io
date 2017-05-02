@@ -16,6 +16,12 @@
   height: 427
   complete: false
 
+- title: Moonwalking with Einstein
+  image: /images/books/moonwalking.jpg
+  width: 263
+  height: 400
+  complete: true
+
 - title: The Circle
   image: /images/books/circle.jpg
   width: 326

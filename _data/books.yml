@@ -16,6 +16,12 @@
   height: 427
   complete: false
 
+- title: Start With Why
+  image: /images/books/start_with_why.jpg
+  width: 190
+  height: 293
+  complete: false
+
 - title: Moonwalking with Einstein
   image: /images/books/moonwalking.jpg
   width: 263

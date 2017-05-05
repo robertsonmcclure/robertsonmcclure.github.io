@@ -106,6 +106,12 @@
   height: 475
   complete: true
 
+- title: The Hitchhiker's Guide to the Galaxy
+  image: /images/books/hitchhiker.jpg
+  width: 306
+  height: 499
+  complete: true
+
 - title: The Signal and The Noise
   image: /images/books/the_signal_and_the_noise.jpg
   width: 326
@@ -230,4 +236,10 @@
   image: /images/books/messenger.jpg
   width: 653
   height: 1024
+  complete: true
+
+- title: A Curious Incident of the Dog in the Night-Time
+  image: /images/books/curious_incident.jpg
+  width: 308
+  height: 475
   complete: true

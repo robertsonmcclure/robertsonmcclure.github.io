@@ -1,20 +1,14 @@
-- title: Head Strong
-  image: /images/books/headstrong.jpg
-  width: 2144
-  height: 3237
+- title: Start With Why
+  image: /images/books/start_with_why.jpg
+  width: 190
+  height: 293
   complete: false
 
 - title: The Evenings
   image: /images/books/the_evenings.jpg
   width: 278
   height: 427
-  complete: false
-
-- title: Start With Why
-  image: /images/books/start_with_why.jpg
-  width: 190
-  height: 293
-  complete: false
+  complete: true
 
 - title: The Talent Code
   image: /images/books/talent_code.jpg

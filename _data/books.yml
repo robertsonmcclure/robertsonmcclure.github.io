@@ -4,6 +4,12 @@
   height: 293
   complete: false
 
+- title: "Shoe Dog: A Memoir by the Creator of Nike"
+  image: /images/books/shoe_dog.jpg
+  width: 315
+  height: 475
+  complete: false
+
 - title: The Evenings
   image: /images/books/the_evenings.jpg
   width: 278

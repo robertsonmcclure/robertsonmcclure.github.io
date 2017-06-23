@@ -4,6 +4,18 @@
   height: 550
   complete: false
 
+- title: Lab Girl
+  image: /images/books/lab_girl.jpg
+  width: 233
+  height: 346
+  complete: false
+
+- title: The God of Small Things
+  image: /images/books/god_of_small_things.jpeg
+  width: 324
+  height: 499
+  complete: true
+
 - title: Every Man Dies Alone
   image: /images/books/every_man.jpg
   width: 316

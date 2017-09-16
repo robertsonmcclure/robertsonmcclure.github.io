@@ -5,4 +5,4 @@ image: robertson_mcclure.jpg
 order: 7
 ---
 
-Built with [AMP](https://www.ampproject.org/), [Jekyll](https://jekyllrb.com/), and designed with a whole lot of love.
+Built with [AMP](https://www.ampproject.org/), [Jekyll](https://jekyllrb.com/), and designed with an unhealthy obsession with too many iterations.

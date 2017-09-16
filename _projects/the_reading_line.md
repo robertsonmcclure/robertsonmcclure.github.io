@@ -5,4 +5,4 @@ image: the_reading_line.png
 order: 3
 ---
 
-This project is close to my heart as I love books and bicycles.
+Created a website for The Reading Line. Great event, check it out sometime.

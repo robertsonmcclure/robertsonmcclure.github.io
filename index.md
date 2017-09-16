@@ -4,8 +4,6 @@ layout: home
 
 Hello!
 
-I love [creating things]({{ "/projects" | absolute_url }}), [reading]({{ "/library" | absolute_url }}), [writing]({{ "/blog" | absolute_url }}) and being in the moment.
-
-I study Mathematics and Computer Science at the University of Toronto, [coach](http://www.varsityblues.ca/roster.aspx?path=mvball) the Men's Volleyball Program at UofT and work for [The Jonah Group](https://www.jonahgroup.com/).
+I work for [The Jonah Group](https://www.jonahgroup.com/) and [coach volleyball](http://www.varsityblues.ca/roster.aspx?path=mvball). Every now and then I [make stuff]({{ "/projects" | absolute_url }}), [read things]({{ "/library" | absolute_url }}) and [write words down]({{ "/blog" | absolute_url }}).
 
 Welcome to my small corner of the internet.

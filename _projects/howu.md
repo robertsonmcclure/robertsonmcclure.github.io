@@ -5,4 +5,4 @@ image: howu.png
 order: 6
 ---
 
-Howu is a well monitoring service created as a proof of concept after a conversation with the Strength and Conditioning Department at UofT. Development has been discontinued.
+Howu is a wellness monitoring service created as a proof of concept. Development has been discontinued.

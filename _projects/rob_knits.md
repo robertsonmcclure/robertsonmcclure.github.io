@@ -5,4 +5,4 @@ image: rob_knits.jpg
 order: 2
 ---
 
-An online store that sells textiles I create. This is a work in progress. 
+A site created to sell stuff I knit. Not currently a viable online store.

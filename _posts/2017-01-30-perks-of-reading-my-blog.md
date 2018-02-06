@@ -18,7 +18,7 @@ The problem with exclusive introspection is that it becomes a diary, and unless 
 
 That being said, it is still possible to write a terrible memoir after leading an interesting life [(as president of the United States of America)](http://www.thedailybeast.com/articles/2017/01/22/the-best-and-worst-presidential-memoirs.html). Not leading an interesting life [hasn't stopped some people, as Buzzfeed gleefully points out](https://www.buzzfeed.com/mbvd/20-of-the-most-awkward-memoirs-ever-written?utm_term=.aakG0wMxM#.ibEBx7A5A).
 
-## Why Read My Blog???
+### Why Read My Blog???
 
 Aside from cheeky meta-articles, what's the point of reading the words I write? I guess I want to believe that I use quality references. When I present an idea, I usually provide context in the form of links. Things that I have found interesting on the internet that I just want to share with you.
 

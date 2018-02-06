@@ -69,6 +69,9 @@ The website is back to normal! No whitelisting, payments or data needed.
 
 Check it out in action:
 
+{% include youtubePlayer.html id="755IosqbMZ8" %}
+
+
 <amp-youtube
     data-videoid="755IosqbMZ8"
     layout="responsive"

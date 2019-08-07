@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Robertson McClure",
+            "logo": "{{ site.url }}/images/name.png"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Robertson McClure",
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.url }}/images/me.jpg",
+                "width": 297,
+                "height": 297
+            },
+            "url": "{{ site.url }}/author/robertson/",
+            "sameAs": []
+        },
+        "headline": "About Me",
+        "url": "{{ site.url }}{{ page.url }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "keywords": "{{ page.tag }}",
+        "description": "{{ site.description }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ site.url }}"
+        }
+    }
+</script>

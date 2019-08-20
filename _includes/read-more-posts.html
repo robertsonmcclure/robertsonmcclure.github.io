@@ -1,0 +1,132 @@
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            <article class="read-next-card" style="background-image: url(/images/background.png)">
+                <header class="read-next-card-header">
+                    <small class="read-next-card-header-sitetitle"
+                        >&mdash; Robertson McClure &mdash;</small
+                    >
+                    <h3 class="read-next-card-header-title">
+                        <a href="/tag/{{ page.tag | downcase | replace:' ','-' }}">{{
+                            page.tag
+                        }}</a>
+                    </h3>
+                </header>
+                <div class="read-next-divider">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path
+                            d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"
+                        />
+                    </svg>
+                </div>
+                <div class="read-next-card-content">
+                    <ul>
+                        {% assign post_count = 0 %}
+                        {% assign tagged_posts = site.posts | where: "tag", page.tag %} 
+                        {% for post in tagged_posts %} 
+                            {% if post.tag == page.tag %} 
+                                {% if post.slug != page.slug %}
+                                    {% assign post_count = post_count | plus: 1 %}
+                                    <li>
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
+                                    </li>
+                                    {% if post_count == 3 %}
+                                        {% break %}
+                                    {% endif %}
+                                {% endif %} 
+                            {% endif %} 
+                        {% endfor %}
+                    </ul>
+                </div>
+                <footer class="read-next-card-footer">
+                    <a href="/tag/personal/">
+                        {% assign number_of_posts = tagged_posts | size | minus: 1 %}
+                        {% if number_of_posts == 1 %} 1 post → {% else %} See all
+                        {{ number_of_posts }} posts → {% endif %}
+                    </a>
+                </footer>
+            </article>
+            {% if page.next %}
+            <article class="post-card post tag-personal">
+                <a class="post-card-image-link" href="/eulogy/">
+                    <div
+                        class="post-card-image"
+                        style="background-image: url({{ page.next.img }})"
+                    ></div>
+                </a>
+                <div class="post-card-content">
+                    <a class="post-card-content-link" href="/eulogy/">
+                        <header class="post-card-header">
+                            <span class="post-card-tags">{{
+                                page.next.date | date: "%e %B %Y"
+                            }}</span>
+                            <h2 class="post-card-title">{{ page.next.title }}</h2>
+                        </header>
+                        <section class="post-card-excerpt">
+                            {{ page.next.excerpt }}
+                        </section>
+                    </a>
+                    <footer class="post-card-meta">
+                        <ul class="author-list">
+                            <li class="author-list-item">
+                                <div class="author-name-tooltip">
+                                    Robertson McClure
+                                </div>
+
+                                <a href="/author/robertson/" class="static-avatar"
+                                    ><img
+                                        class="author-profile-image"
+                                        src="/images/me.jpg"
+                                        alt="Robertson McClure"
+                                /></a>
+                            </li>
+                        </ul>
+
+                        <span class="reading-time">Personal</span>
+                    </footer>
+                </div>
+            </article>
+            {% endif %} {% if page.previous %}
+            <article class="post-card post tag-personal">
+                <a class="post-card-image-link" href="/eulogy/">
+                    <div
+                        class="post-card-image"
+                        style="background-image: url({{ page.previous.img }})"
+                    ></div>
+                </a>
+                <div class="post-card-content">
+                    <a class="post-card-content-link" href="/eulogy/">
+                        <header class="post-card-header">
+                            <span class="post-card-tags">{{
+                                page.previous.date | date: "%e %B %Y"
+                            }}</span>
+                            <h2 class="post-card-title">{{ page.previous.title }}</h2>
+                        </header>
+                        <section class="post-card-excerpt">
+                            {{ page.previous.excerpt }}
+                        </section>
+                    </a>
+                    <footer class="post-card-meta">
+                        <ul class="author-list">
+                            <li class="author-list-item">
+                                <div class="author-name-tooltip">
+                                    Robertson McClure
+                                </div>
+
+                                <a href="/author/robertson/" class="static-avatar"
+                                    ><img
+                                        class="author-profile-image"
+                                        src="/images/me.jpg"
+                                        alt="Robertson McClure"
+                                /></a>
+                            </li>
+                        </ul>
+
+                        <span class="reading-time">Personal</span>
+                    </footer>
+                </div>
+            </article>
+            {% endif %}
+        </div>
+    </div>
+</aside>

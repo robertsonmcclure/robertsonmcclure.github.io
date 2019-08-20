@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Series",
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ site.title }}",
+            "logo": "{{ site.url }}/images/name.png"
+        },
+        "url": "{{ site.url }}{{ page.url }}",
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{ page.img }}",
+            "width": 1080,
+            "height": 705
+        },
+        "name": "{{ page.title }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ site.url }}/"
+        }
+    }
+</script>

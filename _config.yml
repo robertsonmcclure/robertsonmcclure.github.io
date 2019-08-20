@@ -1,2 +1,7 @@
 permalink: /:title
 description: "My name is Robertson McClure and this is the corner of the internet where I write about what I think."
+
+collections:
+    tag:
+        permalink: /tag/:name
+        output: true

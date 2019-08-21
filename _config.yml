@@ -1,5 +1,5 @@
 permalink: /:title
-description: "My name is Robertson McClure and this is the corner of the internet where I write about what I think."
+description: Turning thoughts into pixels
 
 collections:
     tag:

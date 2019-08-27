@@ -8,9 +8,13 @@ img: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.
 
 My goal for 2019 is to read 52 books, one book every week.
 
-So far: 29 books in 33 weeks (as of August 20).
+So far: 30 books in 34 weeks (as of August 27).
 
-## August - 2 books
+## August - 3 books
+
+#### Norse Mythology (2017, Neil Gaiman)
+
+As a kid, I loved reading books on mythology. Greek was my favourite and norse myths confused me. They were harder to follow and more complicated, with characters that didn't seem to fit into well defined boxes. Loki played both sides, and at the end everyone dies in Ragnarok (spoilers). Listening to Neil Gaiman read his interpretations of classic norse myths completely changed how I viewed them. It could also be that I'm now 23 and not 10 years old, but his words bring the stories to life.
 
 #### The Art of Thinking Clearly (2013, Eric Conger)
 

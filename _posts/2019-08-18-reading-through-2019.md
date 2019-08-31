@@ -8,9 +8,13 @@ img: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.
 
 My goal for 2019 is to read 52 books, one book every week.
 
-So far: 30 books in 34 weeks (as of August 27).
+So far: 31 books in 34 weeks (as of August 27).
 
-## August - 3 books
+## August - 4 books
+
+#### An Astronaut's Guide to Life on Earth (2013, Chris Hadfield)
+
+Chris Hadfield leads you through his 3 trips into space with such detail that it feels like you were right beside him. On the way he imparts his personal philosophy that helped him become who he is today. What really resonated with me was taking pride in every little thing, and finding reasons to be happy every day. His perspective would best be described as an optimistic engineer who has trained enough to be confident in what he knows. A fantastic book to read if you want to learn about space travel. 
 
 #### Norse Mythology (2017, Neil Gaiman)
 

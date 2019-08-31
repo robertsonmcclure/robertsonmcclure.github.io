@@ -141,7 +141,8 @@ I was in high school when I first watched Randy Pausch's Last Lecture. The lectu
 #### When Breath Becomes Air (2016, Paul Kalanithi)
 
 When Breath Becomes Air was independently recommended to me by three different friends. Suffice to say, I had high expectations before reading. After three days, I can say that my expectations were shattered as I was emotionally floored by its heartbreaking story. Breaking my heart is one thing, but to simultaneously provoke, inspire, and challenge is a feat few pieces of literature have done. I tend to reread very few books, but I have no doubt that I will continue to revisit these pages for many years.
-##January - 4 books
+
+## January - 4 books
 
 #### Bad Blood (2018, John Carreyrou)
 

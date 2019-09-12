@@ -10,6 +10,12 @@ My goal for 2019 is to read 52 books, one book every week.
 
 So far: 31 books in 34 weeks (as of August 27).
 
+## September - 1 book
+
+#### The 100-Year-Old Man Who Climbed Out the Window and Disappeared (2012, Jonas Jonasson)
+
+This book felt very reminiscent of the movie Forest Gump. Without going into any spoilers, Alan Carlson's life goes through a lot of the major events of the 20th century. The story interweaves these flash backs in between the adventure Alan gets himself into on the day of his 100th birthday when he escapes out the window of his old folks home. The story truly has it all, from a runaway elephant, to an Einstein and a misprinted bible. I'd definitely recommend this book as a nice, light, feel good read.
+
 ## August - 4 books
 
 #### An Astronaut's Guide to Life on Earth (2013, Chris Hadfield)

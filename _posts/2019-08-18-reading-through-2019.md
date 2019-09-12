@@ -8,7 +8,7 @@ img: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.
 
 My goal for 2019 is to read 52 books, one book every week.
 
-So far: 31 books in 34 weeks (as of August 27).
+So far: 32 books in 36 weeks (as of September 10).
 
 ## September - 1 book
 

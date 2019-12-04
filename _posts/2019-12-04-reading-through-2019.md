@@ -1,14 +1,24 @@
 ---
 layout: post
 title: Books of 2019
-date: 2019-08-18
+date: 2019-12-04
 tag: Books
 img: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ"
 ---
 
 My goal for 2019 is to read 52 books, one book every week.
 
-So far: 32 books in 36 weeks (as of September 10).
+So far: 33 books in 48 weeks (as of December 4).
+
+## December - 1 book
+
+#### Not My Father's Son: A Memoir (2015, Alan Cumming)
+
+Alan Cumming narrates this audiobook in such a compelling fashion it is difficult to stop listening to. The journey he goes through as he discovers truths about his father and grandfather make you feel like you are with him every step of the way. 
+
+## November - 0 books
+
+## October - 0 books
 
 ## September - 1 book
 

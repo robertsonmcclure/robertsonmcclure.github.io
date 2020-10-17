@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Books of 2020
-date: 2020-06-23
+date: 2020-10-17
 tag: Books
 img: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
 ---
@@ -12,10 +12,8 @@ What happened was I took a trip to Europe for 6 weeks and I started slipping beh
 
 This year I am not setting myself a goal with a specific number of books. Instead, I will simply try to read as much as possible and see what happens on New Years Eve 2020. 
 
-### In Progress
-- Why I'm No Longer Talking to White People About Race
-
-### Books Finished (8)
+### Books Finished (9)
+- The Psychology of Money
 - Where The Crawdads Sing
 - Hidden Valley Road
 - The Skin We're In: A Year of Black Resistance and Power

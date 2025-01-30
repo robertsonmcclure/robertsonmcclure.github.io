@@ -2,6 +2,7 @@
 layout: post
 title: The Writing & Reading Feedback Loop
 date: 2025-01-30
+tag: Software Engineering
 img: "https://unsplash.com/photos/aerial-view-of-green-trees-and-plants-SWa6EYLCac0"
 ---
 

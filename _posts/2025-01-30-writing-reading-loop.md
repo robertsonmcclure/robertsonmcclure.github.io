@@ -2,6 +2,7 @@
 layout: post
 title: The Writing & Reading Feedback Loop
 date: 2025-01-30
+img: "https://unsplash.com/photos/aerial-view-of-green-trees-and-plants-SWa6EYLCac0"
 ---
 
 It has been 5 years since I wrote a post for this personal blog. Why? I started working at Amazon in 2019 and all my 

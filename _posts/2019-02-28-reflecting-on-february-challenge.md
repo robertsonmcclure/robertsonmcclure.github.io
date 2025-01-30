@@ -37,12 +37,12 @@ At the end of February, I am happy that I stuck with this challenge. I'm also ha
 
 Some of my favourites from the past month include:
 
--   [A letter to my laptop](/dear-laptop/)
--   [Cheesy puns for my girlfriend](/cheesy-valentines-day/)
--   [The economics of tourism](/economics-of-tourism/)
--   [Am I biased?](/am-i-biased/)
--   [Randomized algorithms for life](/love-random/)
--   [Don't follow your passion](/dont-follow-your-passion/)
--   [Realizing a childhood dream](/childhood-dreams/)
+-   [A letter to my laptop](/dear-laptop)
+-   [Cheesy puns for my girlfriend](/cheesy-valentines-day)
+-   [The economics of tourism](/economics-of-tourism)
+-   [Am I biased?](/am-i-biased)
+-   [Randomized algorithms for life](/love-random)
+-   [Don't follow your passion](/dont-follow-your-passion)
+-   [Realizing a childhood dream](/childhood-dreams)
 
 There is a very real possibility that I will attempt to do this challenge again, perhaps even with a longer month!

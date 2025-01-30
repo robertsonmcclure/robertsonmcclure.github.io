@@ -3,7 +3,7 @@ layout: post
 title: The Writing & Reading Feedback Loop
 date: 2025-01-30
 tag: Software Engineering
-img: "https://images.unsplash.com/aerial-view-of-green-trees-and-plants-SWa6EYLCac0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+img: "https://images.unsplash.com/photo-1591081658714-f576fb7ea3ed?q=80&w=2371&auto=format&fit=crop"
 ---
 
 It has been 5 years since I wrote a post for this personal blog. Why? I started working at Amazon in 2019 and all my 

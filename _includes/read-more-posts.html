@@ -39,7 +39,7 @@
                     </ul>
                 </div>
                 <footer class="read-next-card-footer">
-                    <a href="/tag/personal/">
+                    <a href="/tag/personal">
                         {% assign number_of_posts = tagged_posts | size | minus: 1 %}
                         {% if number_of_posts == 1 %} 1 post → {% else %} See all
                         {{ number_of_posts }} posts → {% endif %}
@@ -55,7 +55,7 @@
                     ></div>
                 </a>
                 <div class="post-card-content">
-                    <a class="post-card-content-link" href="/eulogy/">
+                    <a class="post-card-content-link" href="/eulogy">
                         <header class="post-card-header">
                             <span class="post-card-tags">{{
                                 page.next.date | date: "%e %B %Y"
@@ -95,7 +95,7 @@
                     ></div>
                 </a>
                 <div class="post-card-content">
-                    <a class="post-card-content-link" href="/eulogy/">
+                    <a class="post-card-content-link" href="/eulogy">
                         <header class="post-card-header">
                             <span class="post-card-tags">{{
                                 page.previous.date | date: "%e %B %Y"

@@ -7,7 +7,9 @@ img: "https://unsplash.com/photos/aerial-view-of-green-trees-and-plants-SWa6EYLC
 ---
 
 It has been 5 years since I wrote a post for this personal blog. Why? I started working at Amazon in 2019 and all my 
-energy & creativity were focused on the job. There is so much to read and write internally, so much that the prospect of 
+energy & creativity were focused on the job. 
+
+There is so much to read and write internally, so much that the prospect of 
 reading and writing outside of work did not seem appetizing. 
 
 What changed? Why am I writing this post? The answer is that I find there to be a strong feedback loop between reading and writing. 

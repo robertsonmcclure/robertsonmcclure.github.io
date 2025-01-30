@@ -48,14 +48,14 @@
             </article>
             {% if page.next %}
             <article class="post-card post tag-personal">
-                <a class="post-card-image-link" href="/{{ page.next.url }}">
+                <a class="post-card-image-link" href="{{ page.next.url }}">
                     <div
                         class="post-card-image"
                         style="background-image: url({{ page.next.img }})"
                     ></div>
                 </a>
                 <div class="post-card-content">
-                    <a class="post-card-content-link" href="/{{ page.next.url }}">
+                    <a class="post-card-content-link" href="{{ page.next.url }}">
                         <header class="post-card-header">
                             <span class="post-card-tags">{{
                                 page.next.date | date: "%e %B %Y"
@@ -88,14 +88,14 @@
             </article>
             {% endif %} {% if page.previous %}
             <article class="post-card post tag-personal">
-                <a class="post-card-image-link" href="/{{ page.previous.url }}">
+                <a class="post-card-image-link" href="{{ page.previous.url }}">
                     <div
                         class="post-card-image"
                         style="background-image: url({{ page.previous.img }})"
                     ></div>
                 </a>
                 <div class="post-card-content">
-                    <a class="post-card-content-link" href="/{{ page.previous.url }}">
+                    <a class="post-card-content-link" href="{{ page.previous.url }}">
                         <header class="post-card-header">
                             <span class="post-card-tags">{{
                                 page.previous.date | date: "%e %B %Y"
